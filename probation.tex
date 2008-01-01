@@ -1,0 +1,202 @@
+\documentclass{article}
+
+%\nofiles
+
+\newif\ifsmall
+\smallfalse
+
+\usepackage{fullpage}
+
+\ifsmall
+    \advance\voffset   -.5in
+    \advance\textheight .5in
+\else
+    \advance\voffset .5in
+\fi
+
+\usepackage{books}
+
+\begin{document}
+
+\fontencoding{T1}
+
+\ifsmall
+    \fontsize{7.5pt}{9pt}
+\fi
+
+\selectfont
+
+\title{Possible culls}
+\author{David M. Jones}
+
+\maketitle
+
+% \nocite{Alhir1998}
+% \nocite{Anastas1998}
+% \nocite{ArmstrongBCFGH2002}
+% \nocite{Belchem1990}
+% \nocite{Bradley2000}
+% \nocite{Burnham1989}
+% \nocite{Clute2001}
+% \nocite{DeMatteisJ1993}
+% \nocite{Erickson1985}
+% \nocite{Friedl1997}
+% \nocite{GiffenJOBT1991}
+% \nocite{Harris1993a}
+% \nocite{Hayes1996}
+% \nocite{Hayes1996a}
+% \nocite{Hitman1999}
+% \nocite{KurtzmanR2001}
+% \nocite{McCauley1987}
+% \nocite{McCauley1992}
+% \nocite{McMullen2002}
+% \nocite{Monson-Haefel2001}
+% \nocite{Naylor1992}
+% \nocite{OHara1996}
+% \nocite{Rankin1990}
+% \nocite{Rankin1995}
+% \nocite{Rolston1991}
+% \nocite{Tan1989a}
+% \nocite{Tanenbaum1988}
+% \nocite{Tanenbaum1990}
+% \nocite{Tanenbaum1996}
+% \nocite{Tepper1989b}
+% \nocite{VerheidenB1990}
+% \nocite{VerheidenK1991}
+% \nocite{VerheidenN1990}
+% \nocite{Wharton2003}
+% \nocite{Williams2002}
+% \nocite{Williams2004}
+% \nocite{Wright2002}
+% \nocite{Wright2003a}
+% \nocite{Wright2003}
+% 
+% \nocite{Adams1996b}
+% \nocite{Antoni2001}
+% \nocite{Appel1997}
+% \nocite{Baeza-YatesR1999}
+% \nocite{Barring1998}
+% \nocite{Batiuk2000b}
+% \nocite{Baxter1994}
+% \nocite{BenfordB1986}
+% \nocite{Biersdorfer2005}
+% \nocite{Boehm1981}
+% \nocite{Boucher1969}
+% \nocite{Boyle1990}
+% \nocite{Brin1995}
+% \nocite{Brin1996}
+% \nocite{Brin1998}
+% \nocite{Bronte2002}
+% \nocite{BroseVD2001}
+% \nocite{Bryan1988}
+% \nocite{Budd1997}
+% \nocite{BurkeC2003}
+% \nocite{Bushman1984}
+% \nocite{ButterworthF1992}
+% \nocite{Carlson2001}
+% \nocite{Carr2000}
+% \nocite{Chesterton1905}
+% \nocite{Chesterton1908}
+% \nocite{Chesterton1988}
+% \nocite{Chesterton1936}
+% \nocite{Conallen2000}
+% \nocite{Corbett1973}
+% \nocite{Bernieres1991a}
+% \nocite{Dinesen1960}
+% \nocite{Elrod1991}
+% \nocite{Elrod1993}
+% \nocite{Englander1997}
+% \nocite{FayyadPSU1996}
+% \nocite{Fischer1970}
+% \nocite{Forward1984}
+% \nocite{Forward1990}
+% \nocite{FrakesB1992}
+% \nocite{FriedmanWH1992}
+% \nocite{Goodwill2002}
+% \nocite{Goodwill2002a}
+% \nocite{Greenberg1995a}
+% \nocite{Griesbach1960}
+% \nocite{HandMS2001}
+% \nocite{Hearn2002a}
+% \nocite{Holub1987}
+% \nocite{Hughes2004}
+% \nocite{JacobsonBR1998}
+% \nocite{KarguptaC2000}
+% \nocite{Kiernan2001}
+% \nocite{Kruchten2000}
+% \nocite{Langford2003}
+% \nocite{Larson1990}
+% \nocite{McDevitt1994}
+% \nocite{McLaughlin2002}
+% \nocite{Myers1985}
+% \nocite{NaiburgM2001}
+% \nocite{NivenPo1993}
+% \nocite{OBrien1938}
+% \nocite{OBrien2001}
+% \nocite{Pagels1979}
+% \nocite{PapazoglouST2000}
+% \nocite{Pickering1986}
+% \nocite{Rewolinski1989}
+% \nocite{Rewolinski1992}
+% \nocite{Rewolinski1992a}
+% \nocite{Rewolinski1993}
+% \nocite{Rewolinski1993a}
+% \nocite{Rewolinski1994a}
+% \nocite{Rewolinski1994b}
+% \nocite{Reynolds2003}
+% \nocite{Rogers1989}
+% \nocite{Rogers1991}
+% \nocite{Rogers1994}
+% \nocite{Rogers1998}
+% \nocite{Scherr1983}
+% \nocite{Schildt1990}
+% \nocite{SheaW1975}
+% \nocite{Slonczewski1993}
+% \nocite{Somoza2002}
+% \nocite{SpaethlingW1979}
+% \nocite{Stern2004}
+% \nocite{Taylor1995}
+% \nocite{Tiptree1988}
+% \nocite{Watt-Evans1992}
+% \nocite{Watt-Evans1994}
+% \nocite{Webster1958}
+% \nocite{WhedonMO2003}
+% \nocite{WhiteFCHH1999}
+% 
+% \nocite{Frazier1996}
+% 
+% \nocite{Stross2004c}
+% \nocite{Stross2005}
+% 
+% \nocite{Trevanian1979}
+% 
+% \nocite{Coplien1992}
+% \nocite{KoenigM1996}
+% \nocite{Lippman1991}
+% \nocite{Lippman1996a}
+% \nocite{Lippman1996b}
+% \nocite{Plauger1995}
+% \nocite{Lakos1996}
+% \nocite{Teale1993}
+
+% \nocite{GronbaekT1999}
+% \nocite{Carroll2000}
+% \nocite{MassandS2000}
+
+\nocite{Green1965a}
+\nocite{VerheidenN1990}
+\nocite{VerheidenK1991}
+\nocite{VerheidenB1990}
+\nocite{Hayes1996a}
+\nocite{Watson2003}
+\nocite{Willis1996}
+\nocite{Lethem1994}
+\nocite{Cavell2003}
+
+\bibliographystyle{books}
+
+\begin{thebibliography}{1000}
+\bibliography{abbrevs,books,books2,probation,probation2,c++}
+\end{thebibliography}
+
+\end{document}

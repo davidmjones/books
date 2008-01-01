@@ -1,0 +1,46 @@
+\documentclass{article}
+
+%\nofiles
+
+\newif\ifsmall
+\smalltrue
+
+\usepackage{fullpage}
+
+\ifsmall
+    \advance\voffset   -.5in
+    \advance\textheight .5in
+\else
+    \advance\voffset .5in
+\fi
+
+\usepackage{books}
+
+\begin{document}
+
+\fontencoding{T1}
+
+\ifsmall
+    \fontsize{7.5pt}{9pt}
+\fi
+
+\selectfont
+
+\title{A bunch of books}
+\author{David M. Jones}
+
+\maketitle
+
+\nocite*
+
+\bibliographystyle{books}
+
+\begin{thebibliography}{1000}
+
+\bibliography{abbrevs,books,probation}
+
+\InputIfFileExists{books2.bbl}{}
+
+\end{thebibliography}
+
+\end{document}

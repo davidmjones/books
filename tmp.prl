@@ -1,0 +1,26 @@
+#!/usr/bin/perl -w
+
+use strict;
+use warnings;
+
+my $num_pages = 0;
+my $num_books = 0;
+my $num_books_with_pages = 0;
+
+while (<>) {
+    /^\@/ and do {
+        $num_books++;
+    };
+
+    /^\s*pages\s*=.*?(\d+)/ and do {
+        $num_pages += $1;
+        $num_books_with_pages++;
+    };
+}
+
+print "Num books: $num_books\n";
+print "Num books with pages: $num_books_with_pages\n";
+
+print "Total pages: $num_pages\n";
+
+__END__

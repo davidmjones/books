@@ -1,0 +1,132 @@
+\documentclass{article}
+
+\newif\ifsmall
+\smalltrue
+
+\usepackage{fontenc}
+
+\usepackage{times}
+
+\usepackage{fullpage}
+
+\ifsmall
+    \advance\voffset   -.5in
+    \advance\textheight .5in
+\else
+    \advance\voffset .5in
+\fi
+
+\usepackage{maketitle}
+
+\newcommand{\noop}[1]{}
+
+\newcommand{\from}{\emph{from} }
+
+\newcommand{\op}[1]{#1}
+
+\usepackage{multicol}
+
+\renewcommand{\(}{\textup(}
+\renewcommand{\)}{\textup)}
+
+\renewcommand{\and}{\unskip\textup;\space}
+
+\newcommand{\see}[1]{\emph{See}~#1}
+
+\newcommand{\arr}[1]{\unskip\ignorespaces}
+
+\newcommand{\C}[1]{%
+    \artist{#1} \:
+}
+
+\newcommand{\T}[1]{%
+    \(\textup{trans.} \artist{#1}\)%
+}
+
+\newcounter{track}
+\renewcommand{\thetrack}{\roman{track}}
+
+\newcommand{\track}{%
+    \refstepcounter{track}%
+    \textup{(\thetrack)}~%
+}
+
+\renewcommand{\;}{\unskip\textup;\space\ignorespaces}
+\renewcommand{\:}{\unskip\textup:\space\ignorespaces}
+
+\makeatletter
+
+\newcommand{\cd}{%
+    \setcounter{track}{0}%
+    \@ifstar{\item[---]}{\item}%
+}
+
+\newcommand{\cdnum}[2][1]{%
+    \begingroup
+        \tiny
+        (#2\ifnum#1>1\relax~[#1]\fi)%
+    \endgroup
+}
+
+\newcommand{\artist}[1]{\textsc{#1}}
+
+\newcommand{\cdtitle}{}
+\let\cdtitle\emph
+
+\renewcommand{\indexname}{Index of Composers}
+
+%%  \makeatletter
+
+\renewenvironment{theindex}[1]
+               {\if@twocolumn
+                  \@restonecolfalse
+                \else
+                  \@restonecoltrue
+                \fi
+                \columnseprule \z@
+                \columnsep 35\p@
+                \subsection*{#1}
+                \nopagebreak
+                \begin{multicols}{2}
+                \@mkboth{\MakeUppercase\indexname}%
+                        {\MakeUppercase\indexname}%
+                \thispagestyle{plain}\parindent\z@
+                \parskip\z@ \@plus .3\p@\relax
+                \let\item\@idxitem}
+               {\if@restonecol\end{multicols}\else\clearpage\fi}
+
+\renewcommand\@idxitem{\par\hangindent 15\p@}
+
+\makeatother
+
+\begin{document}
+
+\makeatletter
+
+\def\@listi{
+    \leftmargin\leftmargini
+    \topsep0pt
+    \parsep 0pt
+    \itemsep \parsep
+}
+
+\makeatother
+
+%%%%  \fontsize{8pt}{9.6pt}\selectfont
+
+\frenchspacing
+
+\ifsmall
+    \fontsize{7.5pt}{9pt}\selectfont
+\fi
+
+\def\thefootnote{\fnsymbol{footnote}}
+
+\title{A bunch of CDs\footnotemark}
+\author{David M. Jones}
+
+\maketitle
+
+\input{cd.ltx}
+
+\end{document}

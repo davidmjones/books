@@ -1,0 +1,68 @@
+\documentclass{article}
+
+\usepackage{fullpage}
+\advance\voffset   -.5in
+\advance\textheight .5in
+
+\usepackage{maketitle}
+
+\usepackage{fontenc}
+
+\usepackage{times}
+
+\newcommand{\booktitle}{}
+\let\booktitle\emph
+
+\makeatletter
+
+\newif\ifsmall
+\smalltrue
+%%  \smallfalse
+
+\providecommand{\noopsort}[1]{}
+
+\renewenvironment{thebibliography}[1]
+     {%\section*{\refname
+       % \@mkboth{\MakeUppercase\refname}{\MakeUppercase\refname}}%
+      \list{\@biblabel{\@arabic\c@enumiv}}%
+           {\settowidth\labelwidth{\@biblabel{#1}}%
+            \leftmargin\labelwidth
+            \itemsep\z@skip
+            \ifsmall \parsep\z@skip \fi
+            \advance\leftmargin\labelsep
+            \usecounter{enumiv}%
+            \let\p@enumiv\@empty
+            \renewcommand\theenumiv{\@arabic\c@enumiv}}%
+        \renewcommand\newblock{\hskip .11em \@plus.33em \@minus.07em}%
+      \sloppy\clubpenalty4000\widowpenalty4000%
+      \sfcode`\.=\@m}
+     {\def\@noitemerr
+       {\@latex@warning{Empty `thebibliography' environment}}%
+      \endlist}
+
+\makeatother
+
+\begin{document}
+
+
+\fontencoding{T1}
+\ifsmall
+% \fontsize{8pt}{9.6pt}
+\fontsize{7.5pt}{9pt}
+\fi
+\selectfont
+
+\title{Title index of a bunch of books}
+\author{David M. Jones}
+
+\maketitle
+
+\InputIfFileExists{books.aux}{}{}
+
+\begin{theindex}
+
+\InputIfFileExists{index.IDX}{}{}
+
+\end{theindex}
+
+\end{document}

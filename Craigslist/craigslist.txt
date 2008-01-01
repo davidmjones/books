@@ -1,0 +1,932 @@
+COMPUTER SCIENCE AND PROGRAMMING
+
+Sinan Si Alhir.
+UML in a Nutshell.
+O'Reilly and Associates, Sebastopol, California, 1998.
+Softcover.
+1-56592-448-7.
+Price: $5.00
+
+Andrew W. Appel.
+Modern Compiler Design in C: Basic Techniques.
+Cambridge University Press, Cambridge, 1997.
+With Maia Ginsburg.
+Softcover.
+0-521-58653-4.
+Price: $10.00
+
+Eric Armstrong, Stephanie Bodoff, Debbie Carson, Maydene Fisher, Dale
+    Green, and Kim Haase.
+The Java Web Services Tutorial.
+Addison-Wesley, Boston, 2002.
+Softcover.
+0-201-76811-9.
+Price: $10.00
+
+Ricardo Baeza-Yates and Berthier Ribeiro-Neto, editors.
+Modern Information Retrieval.
+Addison-Wesley, New York, 1999.
+Softcover.
+0-201-39829-X.
+Price: $20.00
+
+J. D. Biersdorfer.
+iPod and iTunes: The Missing Manual.
+O'Reilly, third edition, 2005.
+Softcover.
+0-596-00877-5.
+Price: $10.00
+
+Barry W. Boehm.
+Software Engineering Economics.
+Prentice Hall PTR, Upper Saddle River, New Jersey 07458, 1981.
+Hardback.
+0-13-822122-7.
+Price: $20.00
+
+Neil Bradley.
+The XSL Companion.
+Addison-Wesley, Harlow, England, 2000.
+Softcover.
+0-201-67487-4.
+Price: $8.00
+
+Gerald Brose, Andreas Vogel, and Keith Duddy.
+Java Programming with CORBA: Advanced Techniques for Building
+    Distributed Applications.
+John Wiley and Sons, New York, third edition, 2001.
+Softcover.
+0-471-37681-7.
+Price: $15.00
+
+Martin Bryan.
+SGML: An Author's Guide to the Standard Generalized Markup
+  Language.
+Addison-Wesley, Wokingham, England, 1988.
+Softcover.
+0-201-17535-5.
+Price: $8.00
+
+Timothy Budd.
+An Introduction to Object-Oriented Programming.
+Addison-Wesley, Reading, Massachusetts, second edition, 1997.
+Hardback.
+0-201-82419-1.
+Price: $15.00
+
+Eric M. Burke and Brian M. Coyner.
+Java Extreme Programming Cookbook.
+O'Reilly and Associates, 2003.
+Softcover.
+0-596-00387-0.
+Price: $12.00
+
+David Carlson.
+Modeling XML Applications with UML: Practical e-Business Applications.
+Addison-Wesley, Boston, 2001.
+Softcover.
+0-201-70915-5.
+Price: $12.00
+
+John M. Carroll.
+Making Use: Scenario-Based Design of Human-Computer Interactions.
+The MIT Press, Cambridge, Massachusetts, 2000.
+Hardback.
+0-262-03279-1.
+Price: $20.00
+
+Jim Conallen.
+Building Web Applications with UML.
+Addison-Wesley, Reading, Massachusetts, 2000.
+Softcover.
+0-201-61577-0.
+Price: $
+
+John L. Cook III.
+WAP Servlets: Developing Dynamic Web Content with Java and WML.
+John Wiley and Son, New York, 2001.
+Softcover.
+0-471-39307-X.
+Price: $10.00
+
+James O. Coplien.
+Advanced C++ Programming Styles and Idioms.
+Addison-Wesley, Reading, Massachusetts, 1992.
+Price: $20.00
+
+Robert Englander.
+Developing Java Beans.
+O'Reilly and Associates, 1997.
+Softcover.
+1-56592-289-1.
+Price: $12.00
+
+Usama M. Fayyad, Gregory Piatetsky-Shapiro, Padhraic Smyth, and
+    Ramasamy Uthurusamy, editors.
+Advances in Knowledge Discovery and Data Mining.
+The MIT Press, 1996.
+Softcover.
+0-262-56097-6.
+Price: $20.00
+
+William B. Frakes and Ricardo Baeza-Yates, editors.
+Information Retrieval: Data Structures and Algorithms.
+Prentice Hall PTR, Upper Saddle River, New Jersey, 1992.
+Softcover.
+0-13-463837-9.
+Price: $25.00
+
+*Jeffrey E. F. Friedl.
+Mastering Regular Expressions.
+O'Reilly and Associates, Cambridge, Massachusetts, July 1997.
+Softcover.
+1-56592-257-3.
+Price: $
+
+*Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes.
+Essentials of Programming Languages.
+The MIT Press and McGraw-Hill Book Company, 1992.
+Hardback.
+0-07-022443-9.
+Price: $
+
+James Goodwill.
+Apache Jakarta-Tomcat.
+Apress, Berkeley, California, 2002.
+Softcover.
+1-893115-36-4.
+Price: $10.00
+
+James Goodwill.
+Mastering Jakarta Struts.
+Wiley Publishing, Indianapolis, 2002.
+Softcover.
+0-471-21302-0.
+Price: $10.00
+
+Kaj Gronbaek and Randall H. Trigg.
+From Web to Workplace: Designing Open Hypermedia Systems.
+The MIT Press, Cambridge, Massachusetts, 1999.
+Hardback.
+0-262-07191-6.
+Price: $20.00
+
+David Hand, Heikki Mannila, and Padhraic Smyth.
+Principles of Data Mining.
+The MIT Press, Cambridge, Massachusetts, 2001.
+Hardback.
+0-262-08290-X.
+Price: $25.00
+
+Jessica Perry Hekman.
+Linux in a Nutshell: A Desktop Quick Reference.
+O'Reilly, 1997.
+Softcover.
+1-56592-167-4.
+Price: $5.00.
+
+Allen I. Holub.
+The C Companion.
+Prentice-Hall Software Series. Prentice-Hall.
+Softcover.
+0-13-109786-5.
+Price: $10.00
+
+*Ivar Jacobsen, Grady Booch, and James Rumbaugh.
+The Unified Modeling Software Development Process.
+Addison-Wesley, Boston, 1998.
+Hardback.
+0-201-57169-2.
+Price: $20.00
+
+Hillol Kargupta and Philip Chan, editors.
+Advances in Distributed and Parallel Knowledge Discovery.
+The MIT Press, Cambridge, Massachusetts, 2000.
+Softback.
+0-262-61155-4.
+Price: $20.00
+
+Andrew Koenig and Barbara E. Moo.
+Ruminations on C++: A decade of programming insight and
+  experience.
+Addison-Wesley Publishing Company, Reading, Massachusetts, 1996.
+Price: $15.00
+
+Philippe Kruchten.
+The Rational Unified Process: An Introduction.
+Addison-Wesley, Reading, Massachusetts, second edition, 2000.
+Softcover.
+0-201-70710-1.
+Price: $12.00
+
+John Lakos.
+Large Scale C++ Software Design.
+Addison-Wesley, Reading, Massachusetts, 1996.
+Price: $20.00
+
+Stanley B. Lippman.
+C++ Primer.
+Addison-Wesley Publishing Company, Reading, Massachusetts, second
+  edition, 1991.
+0-201-54848-8.
+Price: $10.00
+
+Stanley B. Lippman, editor.
+C++ Gems.
+SIGS Books, New York, 1996.
+Price: $20.00
+
+Stanley B. Lippman, editor.
+Inside the C++ Object Model.
+Addison-Wesley Publishing Company, Reading, Massachusetts, 1996.
+0-201-83454-5.
+Price: $25.00
+
+Brij Masand and Myra Spiliopoulou, editors.
+Web Usage Analysis and User Profiling: International WEBKDD'99 Workshop,
+San Diego, CA, 15 August 1999. 
+LNCS 1836, Springer-Verlag.
+Softcover.
+3-540-67818-2.
+Price: $20.00
+
+Brett McLaughlin.
+Architecture, volume 1 of Building Java Enterprise Applications.
+O'Reilly, 2002.
+Softcover.
+0-596-00123-1.
+Price: $15.00
+
+Richard Monson-Haefel.
+Enterprise Javabeans.
+O'Reilly, third edition, 2001.
+Softcover.
+0-596-00226-2.
+Price: $15.00
+
+Eric J. Naiburg and Robert A. Maksimchuk.
+UML for Database Design.
+Addison-Wesley, Reading, Massachusetts, 2001.
+Softcover.
+0-201-72163-5.
+Price: $12.00
+
+*Michael P. Papazoglou, Stefano Spaccapietra, and Zahir Tari, editors.
+Advances in Object-Oriented Data Modeling.
+The MIT Press, Cambridge, Massachusetts, 2000.
+Hardback.
+0-262-16189-3.
+Price: $
+
+P. J. Plauger.
+The Draft Standard C++ Library.
+Prentice Hall, Englewood Cliffs, New Jersey, 1995.
+0-13-117003-1.
+Price: $15.00
+
+Paul Robertson and Howie Shrobe and Robert Laddaga, editors.
+Self-Adaptive Software: First International Workshop, IWSAS 2000.
+Springer, 2001.
+Softcover.
+3-540-41655-2.
+Price: $20.00
+
+Herbert Schildt.
+The Annotated ANSI C Standard.
+McGraw-Hill, 1990.
+Softcover.
+0-07-881952-0.
+Note: This is based on ANSI/ISO 9899-1990.  The author's commentary is
+widely regarded as worth than useless, but it's a cheap way to get the
+almost-complete text of the standard.
+Price: $5.00
+
+Sue Spielman.
+The Struts Framework: Practical Guide for Java Programmers.
+Morgan Kaufmann, 2003.
+Softcover.
+1-55860-862-1.
+Price: $10.00
+
+Hadley Stern.
+iPod and iTunes Hacks.
+O'Reilly, 2004.
+Softcover.
+0-596-00778-7.
+Price: $10.00
+
+Andrew S. Tanenbaum.
+Computer Networks.
+Prentice Hall, second edition, 1988.
+Hardback.
+0-13-162959-X.
+Price: $15.00
+
+Andrew S. Tanenbaum.
+Structured Computer Organization.
+Prentice Hall, third edition, 1990.
+Hardback.
+0-13-854662-2.
+Price: $15.00
+
+Andrew S. Tanenbaum.
+Computer Networks.
+Prentice Hall, third edition, 1996.
+Hardback.
+0-13-349945-6.
+Price: $15.00
+
+Steve Teale.
+C++ IOStreams Handbook.
+Addison-Wesley, Reading, Masachusetts, 1993.
+Reprinted with corrections February 1994.
+0-201-59641-5.
+Price: $15.00
+
+Seth White, Maydene Fisher, Rick Cattell, Graham Hamilton, and Mark Hapner.
+JDBC API Tutorial and Reference.
+Addison-Wesley, Reading, Massachusetts, second edition, 1999.
+Softcover.
+0-201-43328-1.
+Price: $15.00
+
+===========================================================================
+FICTION
+
+Benjamin Anastas.
+An Underachiever's Diary.
+The Dial Press, New York, 1998.
+Hardback.
+0-385-31998-3.
+Price: $7.50
+
+Robert Antoni.
+My Grandmother's Erotic Folktales.
+Grove Press, New York, 2001.
+Hardback.
+0-8021-1687-6.
+Price: $7.50
+
+*Stephen Baxter.
+Ring.
+Harper Collins, New York, 1996.
+Originally published in 1994.
+Softcover.
+0-06-105694-4.
+Price: $
+
+*Gregory Benford and David Brin.
+Heart of the Comet.
+Bantam Books, New York, 1987.
+First published in 1986.
+Softcover.
+0-553-25839-7.
+Price: $
+
+*Anthony Boucher.
+The Compleat Werewolf.
+Carroll and Graf Publishers, 1990.
+Softcover.
+0-88184-557-4.
+Price: $
+
+T. Coraghessan Boyle.
+East is East.
+Penguin Books, 1990.
+Softcover.
+0-14-013167-1.
+Price: $2.00
+
+David Brin.
+Brightness Reef.
+Bantam Books, New York, 1995.
+Hardback.
+0-553-10034-3.
+Price: $10.00
+
+David Brin.
+Infinity's Shore.
+Bantam Books, New York, 1996.
+Hardback.
+0-553-10173-0.
+Price: $10.00
+
+David Brin.
+Heaven's Reach.
+Bantam Books, New York, 1998.
+Hardback.
+0-553-10174-9.
+Price: $10.00
+
+Emily Bronte.
+Wuthering Heights.
+Broadview Press, Peterborough, Ontario, Canada, 2002.
+Edited by Christopher Heywood.
+Softcover.
+1-55111-247-7.
+Price: $2.00
+
+Caleb Carr.
+Killing Time.
+Random House, New York, 2000.
+Hardback.
+0-679-46332-1.
+Price: $10.00
+
+Benjamin Cavell.
+Rumble, Young Man, Rumble.
+Alfred A. Knopf, New York, 2003.
+Hardback.
+0-375-41464-9.
+Price: $7.50
+
+G. K. Chesterton.
+The Club of Queer Trades.
+Penguin Books, London, 1984.
+First published in 1905.
+Softcover.
+0-14-018387-6.
+Price: $20.00
+
+G. K. Chesterton.
+The Man Who Was Thursday.
+Penguin Books, 1986.
+First published in 1908.
+Softcover.
+0-14-018388-4.
+Price: $2.00
+
+*G. K. Chesterton.
+The Annotated Innocence of Father Brown.
+Oxford University Press, Oxford, 1988.
+Edited by Martin Gardner.
+Softcover.
+0-19-282164-4.
+Price: $
+
+G. K. Chesterton.
+The Paradoxes of Mr. Pond.
+Dover Publications, New York, 1990.
+First published in London by Cassell and Company, 1936.
+Softcover.
+0-486-26185-9.
+Price: $2.00
+
+John Clute.
+Appleseed.
+TOR Books, New York, 2001.
+Hardback.
+0-765-30378-7.
+Price: $7.50
+
+Louis de Bernieres.
+Senor Vivo and the Coca Lord.
+William Morrow and Company, New York, 1991.
+Hardback.
+0-688-11130-0.
+Price: $7.50
+
+*Isak Dinesen.
+Shadows on the Grass.
+Vintage Books, New York, 1974.
+Softcover.
+0-394-71062-2.
+Price: $
+
+*P. N. Elrod.
+Fire in the Blood.
+Ace Books, New York, 1991.
+Softcover.
+0-441-85946-1.
+Price: $
+
+*P. N. Elrod.
+Red Death.
+Ace Books, New York, 1993.
+Softcover.
+0-441-71094-8.
+Price: $
+
+*Steve Erickson.
+Days between Stations.
+Random House, New York, 1986.
+First published in 1985 by Simon and Schuster.
+Softcover.
+0-394-74685-6.
+Price: $
+
+*Robert L. Forward.
+The Flight of the Dragonfly.
+Baen Books, New York, 1985.
+Softcover.
+0-671-55937-0.
+Price: $
+
+*Robert L. Forward.
+Rocheworld.
+Baen Books, 1990.
+Softcover.
+0-671-69869-9.
+Price: $
+
+Peter Green.
+The Laughter of Aphrodite: A Novel about Sappho of Lesbos.
+University of California Press, Berkeley, 1993.
+First published in 1965 by John Murray.
+Softcover.
+0-520-20340-2.
+Price: $7.50
+
+Martin H. Greenberg, editor.
+Tales of the Batman.
+MJF Books, New York, 1995.
+Hardback.
+1-56731-076-1.
+Price: $5.00
+
+Drew Hayes.
+Traumatic Dogs, volume II of Poison Elves.
+Sirius Entertainment, November 1996.
+Softcover.
+Price: $2.00
+
+Matthew Hughes.
+Black Brillion: A Novel of the Archonate.
+TOR Books, New York, 2004.
+Hardback.
+0-765-30865-7.
+Price: $7.50
+
+David Langford.
+The Leaky Establishment.
+Wildside Books, Holicong, Pennsylvania, 2003.
+Softcover.
+1-59224-125-5.
+Price: $5.00
+
+Jonathan Lethem.
+Gun, with Occasional Music.
+Harcourt Brace and Company, New York, 1994.
+Hardback.
+0-15-136458-3.
+Price: $7.50
+
+Stephen McCauley.
+The Object of My Affection.
+Washington Square Press, New York, 1988.
+First published in 1987.
+Softcover.
+0-671-74350-3.
+Price: $2.00
+
+Stephen McCauley.
+The Easy Way Out.
+Washington Square Press, New York, 1993.
+First published in 1992.
+Softcover.
+0-671-78738-1.
+Price: $2.00
+
+Jack McDevitt.
+The Engines of God.
+Ace Books, New York, 1994.
+Hardback.
+0-441-00077-0.
+Price: $10.00
+
+Sean McMullen.
+Voyage of the Shadowmoon.
+TOR Books, New York, 2004.
+Originally published in 2002.
+Softcover.
+0-765-34713-X.
+Price: $2.00
+
+*Grant Naylor.
+Red Dwarf.
+Penguin Books, New York, 1992.
+Softcover.
+0-451-45201-1.
+Price: $
+
+Larry Niven and Jerry Pournelle.
+The Gripping Hand.
+Pocket Books, New York, 1993.
+Hardback.
+0-671-79573-2.
+Price: $10.00
+
+Flann O'Brien.
+At Swim-Two-Birds.
+Dalkey Archive Press, Illinois State University, 1998.
+Softcover.
+1-56478-181-X.
+Price: $3.00
+
+*Gerry O'Brien.
+Planting Out.
+Colin Smythe, Buckinghamshire, 2001.
+Hardback.
+0-86140-440-8.
+Price: $
+
+*Robert Rankin.
+Armageddon: The Musical.
+Dell Publishing, New York, 1991.
+Softcover.
+0-440-50347-7.
+Price: $
+
+Robert Rankin.
+The Garden of Unearthly Delights.
+Doubleday, London, 1995.
+Hardback.
+0-385-40515-4.
+Price: $10.00
+
+Alastair Reynolds.
+Redemption Ark.
+Ace Books, New York, 2003.
+Hardback.
+0-441-01058-X.
+Price: $10.00
+
+Mark E. Rogers.
+Samurai Cat in the Real World.
+Tom Doherty Associates, New York, 1989.
+Softcover.
+0-312-93198-0.
+Price: $3.00
+
+Mark E. Rogers.
+The Sword of Samurai Cat.
+Tom Doherty Associates, New York, 1991.
+Softcover.
+0-312-85156-1.
+Price: $3.00
+
+Mark E. Rogers.
+Samurai Cat Goes to the Movies.
+TOR, New York, 1994.
+Softcover.
+0-312-85744-6.
+Price: $3.00
+
+*Mark E. Rogers.
+Samurai Cat Goes to Hell.
+Tom Doherty Associates, New York, 1998.
+Softcover.
+0-312-86642-9.
+Price: $
+
+Robert Shea and Robert Anton Wilson.
+The Illuminatus! Trilogy.
+Dell Publishing, New York, 1988.
+Softcover.
+0-440-53981-1.
+Price: $4.00
+
+Joan Slonczweski.
+Daughter of Elysium.
+William Morrow and Company, New York, 1993.
+Hardback.
+0-688-12509-3.
+Price: $10.00
+
+Jose Carlos Somoza.
+The Athenian Murders.
+Farrar Straus Giroux, New York, 2002.
+Translated by Sonia Soto.
+Hardback.
+0-374-10677-0.
+Price: $7.50
+
+Charles Stross.
+The Family Trade, volume 1 of The Merchant Princes.
+TOR Books, 2004.
+Hardback.
+0-765-30929-7.
+Price: $10.00
+
+Charles Stross.
+The Hidden Family, volume 2 of The Merchant Princes.
+TOR Books, 2005.
+Hardback.
+0-765-31347-2.
+Price: $10.00
+
+*Amy Tan.
+The Joy Luck Club.
+Ivy Books, New York, 1990.
+Softcover.
+0-8041-0630-4.
+Price: $
+
+Benjamin Taylor.
+Tales Out of School.
+Turtle Point Press, New York, 1995.
+Hardback.
+1-885983-04-2.
+Price: $7.50
+
+*Sheri S. Tepper.
+Grass.
+Bantam Books, New York, 1990.
+Softcover.
+0-553-28565-3.
+Price: $
+
+*James Tiptree, Jr.
+Crown of Stars.
+Tom Doherty Associates, New York, 1990.
+Originally published in 1988.
+Softcover.
+0-812-50338-4.
+Price: $
+
+Trevanian (Rodney William Whitaker).
+Shibumi.
+Three Rivers Press, New York, 2005.
+First published in 1979.
+Softcover.
+1-4000-9803-3.
+Price: $3.00
+
+Mark Verheiden and Mark A. Nelson.
+Aliens: Book One.
+Dark Horse Comics, Milwaukie, Oregon, 1990.
+Softcover.
+1-878574-01-9.
+Price: $2.00
+
+Mark Verheiden and Denis Beauvais.
+Aliens: Book Two.
+Dark Horse Comics, Milwaukie, Oregon, 1990.
+Softcover.
+1-878574-03-5.
+Price: $2.00
+
+Mark Verheiden and Sam Kieth.
+Aliens: Earth War.
+Dark Horse Comics, Milwaukie, Oregon, 1991.
+Softcover.
+1-878574-23-X.
+Price: $2.00
+
+*Lawrence Watt-Evans.
+Crosstime Traffic.
+Ballantine Books, New York, 1992.
+Softcover.
+0-345-37395-2.
+Price: $
+
+*Lawrence Watt-Evans.
+Out of This World.
+Ballantine Books, New York, 1994.
+Softcover.
+0-345-39114-4.
+Price: $
+
+Ian Watson.
+Mockymen.
+Golden Gryphon Press, Urbana, Illinois, 2003.
+Hardback.
+1-930846-21-5.
+Price: $10.00
+
+*Walter Jon Williams.
+The Praxis.
+Dread Empire's Fall. Harper-Collins, New York, 2003.
+Softcover.
+0-380-82020-X.
+Price: $
+
+*Walter Jon Williams.
+The Sundering.
+Dread Empire's Fall. Harper-Collins, New York, 2004.
+Softcover.
+0-380-82021-8.
+Price: $
+
+Connie Willis.
+Bellwether.
+Bantam Books, New York, 1996.
+Softcover.
+0-553-37562-8.
+Price: $2.00
+
+Robert Anton Wilson.
+Schr\"odinger's Cat Trilogy.
+Dell Publishing, 1988.
+Softcover.
+0-440-50070-2.
+Price: $3.00
+
+John C. Wright.
+The Golden Age.
+TOR Books, New York, 2002.
+Hardback.
+0-312-84870-6.
+Price: $10.00
+
+John C. Wright.
+The Phoenix Exultant, or, Dispossessed in Utopia, volume 2 of The Golden Age.
+TOR Books, New York, 2003.
+Hardback.
+0-765-30432-5.
+Price: $10.00
+
+John C. Wright.
+The Golden Transcedence, volume 3 of The Golden Age.
+TOR Books, New York, 2003.
+Hardback.
+0-765-30756-1.
+Price: $10.00
+
+===========================================================================
+MISC
+
+John Belchem.
+Industrialization and the Working Class: The English Experience, 1750--1900.
+Areopagitica Press, 9999 S.W. Wilshire, Portland, Oregon 97225, 1990.
+Hardback.
+0-918400-14-7.
+Price: $7.50
+
+David Burnham.
+A Law Unto Itself: Power, Politics and the IRS.
+Random House, 1989.
+Hardback.
+0-394-56097-3.
+Price: $10.00
+
+Richard L. Bushman.
+Joseph Smith and the Beginnings of Mormonism.
+University of Illinois Press, Urbana and Chicago, 1984.
+Hardback.
+0-252-01143-0.
+Price: $7.50
+
+David Hackett Fischer.
+Historians' Fallacies: Toward a Logic of Historical Thought.
+Harper and Row, New York, 1970.
+Softcover.
+0-06-131545-1.
+Price: $5.00
+
+Ian Frazier.
+Coyote V. ACME.
+Farrar, Straus and Giroux, New York, 1997.
+First published in 1996.
+Softcover.
+Price: $4.00
+
+*Rosemarie Griesbach.
+Deutsche Marchen und Sagen.
+Max Hueber Verlag, Munchen, 1960.
+Softcover.
+3-19-001022-6.
+
+Jose Harris.
+Private Lives, Public Spirit: Britain 1870--1914.
+Penguin Books, London, 1993.
+Softcover.
+0-14-012548-5.
+Price: $10.00
+
+Joel Kurtzman and Glenn Rifkin.
+Radical E: From GE to Enron -- Lessons on How to Rule the Web.
+John Wiley and Sons, New York, 2001.
+Hardback.
+0-471-05687-1.
+Price: $7.50
+
+*Elaine Pagels.
+The Gnostic Gospels.
+Random House, New York, 1981.
+First published in 1979 by Random House.
+Softcover.
+0-679-74043-3.
+Price: $
+
+Andrew Pickering.
+Constructing Quarks: A Sociological History of Particle Physics.
+Edinburgh University Press, 1986.
+Originally published in 1984.
+Softcover.
+0-85224-535-1.
+Price: $15.00
+
+George H. Scherr, editor.
+The Best of the Journal of Irreproducible Results.
+Workman Publishing, New York, 1983.
+Softcover.
+0-89480-595-9.
+Price: $2.00
+
+*Robert Spaethling and Eugene Weber, editors.
+Literatur Eins.
+W. W. Norton and Company, New York, second edition, 1979.
+Softcover.
+0-393-95041-7.
+Price: $

@@ -1,0 +1,20 @@
+#!/usr/bin/perl
+
+use CD;
+
+my $file = shift;
+
+CD->read_db($file);
+
+CD->bibsort();
+
+CD->output();
+
+##  CD->output_index;
+
+##  CD->output_artist_index;
+
+# Keep these lines at the end of the file!
+# Local Variables:
+# mode: perl
+# End:

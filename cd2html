@@ -1,0 +1,14 @@
+#!/usr/local/bin/perl5
+
+use CD;
+
+CD->read_db();
+
+CD->bibsort();
+
+CD->output_as_html();
+
+# Keep these lines at the end of the file!
+# Local Variables:
+# mode: perl
+# End:

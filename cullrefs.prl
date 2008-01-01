@@ -1,0 +1,46 @@
+#!/usr/bin/perl -w
+
+use strict;
+
+my $root = shift;
+
+my $auxfile = $root . ".aux";
+
+my $bakfile = $root . "-bak.aux";
+
+my $status = rename $auxfile, $bakfile;
+
+if ($status != 1) {
+    die "Couldn't rename $auxfile to $bakfile: $!\n";
+}
+
+open(OLD, $bakfile) or die "Can't open $bakfile for reading: $!\n";
+
+my %KEEP;
+
+while (<OLD>) {
+    /\\citation\{(\S+)\}/ and do {
+        $KEEP{$1} = 1;
+    }
+}
+
+close(OLD);
+
+
+open(OLD, $bakfile) or die "Can't reopen $bakfile for reading: $!\n";
+
+open(AUX, "> $auxfile") or die "Can't open $auxfile for writing: $!\n";
+
+while (<OLD>) {
+    /\\bibcite\{(\S+?)\}/ and do {
+        next unless defined $KEEP{$1};
+    };
+
+    print AUX;
+}
+
+close(AUX);
+
+close(OLD);
+
+__END__
