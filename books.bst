@@ -32,6 +32,7 @@ ENTRY
     howpublished
     institution
     isbn
+    isbn-13
     journal
     key
     month
@@ -540,11 +541,19 @@ FUNCTION {do.book}
       cover output
     }
   if$
-  isbn empty$
-    'skip$
-    { new.block
-      isbn output
-    }
+  isbn-13 empty$
+  {
+    isbn empty$
+      'skip$
+      { new.block
+        isbn output
+      }
+    if$
+  }
+  {
+    new.block
+    isbn-13 output
+  }
   if$
   fin.entry
   do.abstract
