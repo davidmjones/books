@@ -3,6 +3,30 @@
 use strict;
 use warnings;
 
+my $num_dvds = 0;
+
+while (<>) {
+    /^%T / and do {
+        $num_dvds++;
+        next;
+    };
+
+    /^%d\s+(\d+)/ and do {
+        $num_dvds += ($1 - 1);
+
+        next;
+    };
+}
+
+print "Num dvds: $num_dvds\n";
+
+__END__
+
+#!/usr/bin/perl -w
+
+use strict;
+use warnings;
+
 my $num_pages = 0;
 my $num_books = 0;
 my $num_books_with_pages = 0;
