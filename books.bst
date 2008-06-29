@@ -324,7 +324,7 @@ FUNCTION {format.bvolume}
   if$
 }
 FUNCTION {format.number.series}
-{ volume empty$
+{ volume empty$ bookvol empty$ and
     { number empty$
         { series field.or.null }
         { output.state mid.sentence =
