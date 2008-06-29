@@ -23,6 +23,7 @@ ENTRY
     abstract
     address
     author
+    bookvol
     booktitle
     chapter
     cover
@@ -303,7 +304,16 @@ FUNCTION {either.or.check}
 }
 FUNCTION {format.bvolume}
 { volume empty$
-    { "" }
+    { bookvol empty$
+      { "" }
+      { "book" bookvol tie.or.space.connect
+        series empty$
+          'skip$
+          { " of " * series emphasize * }
+        if$
+      }
+      if$
+    }
     { "volume" volume tie.or.space.connect
       series empty$
         'skip$
