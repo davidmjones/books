@@ -41,7 +41,9 @@ ENTRY
     number
     organization
     pages
+    printing
     publisher
+    reprint
     sortgroup
     sortkey
     school
@@ -352,6 +354,12 @@ FUNCTION {format.edition}
     }
   if$
 }
+FUNCTION {format.reprint}
+{ reprint empty$
+    { "" }
+    { " reprinted " reprint * }
+  if$
+}
 INTEGERS { multiresult }
 FUNCTION {multi.page.check}
 { 't :=
@@ -493,8 +501,7 @@ FUNCTION {bachelorsthesis}
   new.block
   "Bachelor's thesis" format.thesis.type output.nonnull
   school "school" output.check
-  address output
-  format.date "year" output.check
+  address format.date "year" output.check
   new.block
   note output
   fin.entry
@@ -523,6 +530,9 @@ FUNCTION {do.book}
       address output
   format.edition output
   format.date "year" output.check
+  format.reprint output
+  new.block
+  printing output
   new.block
   note output
   new.block
