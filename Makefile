@@ -1,6 +1,6 @@
 L = latex#2e
 
-all: list cd new probation book dvds
+all: list cd new probation dvds book
 
 new: new.dvi
 
@@ -43,7 +43,7 @@ print: ps
 books.dvi: books.tex books.bbl books2.bbl books.sty
 	- $(L) books
 	./cullrefs.prl books
-	$(L) books
+	- $(L) books
 
 books.bbl: books.bib abbrevs.bib books.bst
 	$(L) books.tex
