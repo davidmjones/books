@@ -43,6 +43,7 @@ ENTRY
     pages
     printing
     publisher
+    reissued
     reprint
     sortgroup
     sortkey
@@ -360,6 +361,12 @@ FUNCTION {format.reprint}
     { " reprinted " reprint * }
   if$
 }
+FUNCTION {format.reissued}
+{ reissued empty$
+    { "" }
+    { " reissued " reissued * }
+  if$
+}
 INTEGERS { multiresult }
 FUNCTION {multi.page.check}
 { 't :=
@@ -531,6 +538,7 @@ FUNCTION {do.book}
   format.edition output
   format.date "year" output.check
   format.reprint output
+  format.reissued output
   new.block
   printing output
   new.block
