@@ -300,14 +300,14 @@
 %d 2
 
 %T Kwaidan
-%S The Criterion Collection
+%P The Criterion Collection
 
 %T Iron Ladies, The \(Satree-Lex\)
 
 %T Blade Runner: The Director's Cut
 
 %T Insomnia \(Erik Dkjoldbj{\ae}rg\)
-%S The Criterion Collection
+%P The Criterion Collection
 %f full-screen edition
 
 %T Insomnia
@@ -752,7 +752,7 @@
 %D 17 Feb 2004
 
 %T Hard Boiled
-%S The Criterion Collection
+%P The Criterion Collection
 %N CC1516D
 %D 18 Feb 2004
 
@@ -1977,7 +1977,7 @@
 %D 5 January 2009
 
 %T Rashomon
-%S The Criterion Collection
+%P The Criterion Collection
 %N 138
 %D 11 February 2009
 
@@ -2272,13 +2272,13 @@
 %D 24 Mar 2010
 
 %T Yojimbo
-%S The Criterion Collection
+%P The Criterion Collection
 %F BR
 %N 52
 %D 24 Mar 2010
 
 %T Sanjuro
-%S The Criterion Collection
+%P The Criterion Collection
 %F BR
 %N 52
 %D 24 Mar 2010
@@ -2295,11 +2295,28 @@
 %D 20 April 2010
 
 %T Delightful Forest, The
-%S Sword Masters
+%P Sword Masters
 %F DVD
 %D 7 May 2010
 
 %T Magic Blade, The
-%S Eastern Masters
+%P Eastern Masters
 %F DVD
 %D 7 May 2010
+
+%T Brothers Five
+%P Sword Masters
+%S Shaw Brothers
+%F BR
+%D 12 May 2010
+
+%T Heroic Ones, The
+%P Sword Masters
+%S Shaw Brothers
+%F BR
+%D 12 May 2010
+
+%T Red Trousers
+%F DVD
+%d 2
+%D 12 May 2010
