@@ -31,6 +31,7 @@ ENTRY
     edition
     editor
     howpublished
+    imprint
     institution
     isbn
     isbn-13
@@ -513,8 +514,25 @@ FUNCTION {bachelorsthesis}
   note output
   fin.entry
   do.abstract
-}  
-  
+}
+
+FUNCTION {do.publisher}
+{
+  imprint output
+  imprint empty$
+    { publisher "publisher" output.check }
+    {
+      publisher empty$
+        'skip$
+        {
+          before.all 'output.state :=
+          " (" publisher ")" * * output.nonnull
+        }
+      if$
+    }
+  if$
+}
+
 FUNCTION {do.book}
 { output.bibitem
   author empty$
@@ -533,7 +551,7 @@ FUNCTION {do.book}
       new.block
       format.number.series output
       new.sentence
-      publisher "publisher" output.check
+      do.publisher
       address output
   format.edition output
   format.date "year" output.check
