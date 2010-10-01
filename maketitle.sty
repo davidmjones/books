@@ -1,0 +1,53 @@
+% Improved macros for formatting title
+
+\gdef\@title{}
+\gdef\@author{}
+
+\newif\if@threecolumn \@threecolumnfalse
+
+\def\maketitle{\par
+ \begingroup
+ \def\thefootnote{\fnsymbol{footnote}}
+ \def\@makefnmark{\hbox
+ to 0pt{$^{\@thefnmark}$\hss}}
+ \if@twocolumn
+        \twocolumn[\@maketitle]
+        \else
+        \if@threecolumn                      %added these two lines for
+                \threecolumn[\@maketitle]    %3 column title
+                \else \newpage
+        \global\@topnum\z@ \@maketitle \fi \fi
+\thispagestyle{empty}\@thanks                % Changed from plain to empty
+ \endgroup                                   % DMJ 11/1/89
+ \setcounter{footnote}{0}
+ \let\maketitle\relax
+ \let\@maketitle\relax
+ \gdef\@thanks{}\gdef\@author{}\gdef\@title{}\let\thanks\relax}
+
+\newdimen\afterauthor \afterauthor1em
+\newdimen\abovetitle \abovetitle2em
+\newdimen\aftertitle \aftertitle1.5em
+\newdimen\afterdate \afterdate1.5em
+
+\def\@maketitle{\ifx\@title\@empty\else
+ \newpage
+ \mbox{}
+ \vskip\abovetitle                      % Vertical space above title.
+ \begin{center}
+  {\LARGE \@title \par}                 % Title set in \LARGE size. 
+  \vskip\aftertitle                     % Vertical space after title.
+  \ifx\@author\@empty\else
+  {\large                               % each author set in \large, in a
+   \lineskip .5em                       % tabular environment
+   \begin{tabular}[t]{c}\@author 
+   \end{tabular}\par}                   
+  \vskip\afterauthor                    % Vertical space after author.
+  \fi
+  \ifx\@date\@empty\else{\large \@date}\fi % Date set in \large size.
+\end{center}
+ \par
+ \ifx\@date\@empty\else\vskip\afterdate\fi % Vertical space after date.
+\fi
+}                
+
+\endinput
