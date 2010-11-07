@@ -4,7 +4,7 @@ all: list cd new probation dvds book
 
 new: new.dvi
 
-probation: probation.dvi
+probation: probation.tex probation.dvi
 
 book: books.dvi
 
