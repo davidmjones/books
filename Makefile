@@ -65,7 +65,7 @@ probation.dvi: probation.tex probation.bbl books.sty
 	- $(L) probation
 	$(L) probation
 
-probation.bbl: probation.bib probation2.bib books.bib books2.bib abbrevs.bib books.bst
+probation.bbl: books.bib books2.bib abbrevs.bib books.bst
 	$(L) probation.tex
 	bibtex probation
 
