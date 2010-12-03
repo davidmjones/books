@@ -41,6 +41,7 @@ ENTRY
     note
     number
     organization
+    firstyear
     pages
     printing
     publisher
@@ -518,6 +519,10 @@ FUNCTION {bachelorsthesis}
 
 FUNCTION {do.publisher}
 {
+  firstyear empty$
+    'skip$
+    { "Reprint: " output before.all 'output.state := }
+  if$
   imprint output
   imprint empty$
     { publisher "publisher" output.check }
@@ -548,6 +553,7 @@ FUNCTION {do.book}
   new.block
   format.btitle "title" output.check
       format.bvolume output
+      firstyear empty$ 'skip$ { firstyear output } if$
       new.block
       format.number.series output
       new.sentence
@@ -1095,7 +1101,8 @@ FUNCTION {presort}
   *
   "    "
   *
-  year field.or.null sortify
+  firstyear empty$ { year } { firstyear } if$
+  field.or.null sortify
   *
   "    "
   *
