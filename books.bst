@@ -550,17 +550,23 @@ FUNCTION {do.book}
 %        "author and editor" editor either.or.check 
     }
   if$
+  firstyear empty$
+      { year empty$ 'skip$ { year output } if$ }
+      { firstyear output }
+  if$
   new.block
   format.btitle "title" output.check
       format.bvolume output
-      firstyear empty$ 'skip$ { firstyear output } if$
       new.block
       format.number.series output
       new.sentence
       do.publisher
       address output
   format.edition output
-  format.date "year" output.check
+  firstyear empty$
+      'skip$
+      { format.date "year" output.check }
+  if$
   format.reprint output
   format.reissued output
   new.block
