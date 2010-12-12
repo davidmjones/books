@@ -1,0 +1,42 @@
+\documentclass{article}
+
+%\nofiles
+
+\newif\ifsmall
+\smallfalse
+
+\usepackage{fullpage}
+
+\ifsmall
+    \advance\voffset   -.5in
+    \advance\textheight .5in
+\else
+    \advance\voffset .5in
+\fi
+
+\usepackage{books}
+
+\begin{document}
+
+\fontencoding{T1}
+
+\ifsmall
+    \fontsize{7.5pt}{9pt}
+\fi
+
+\selectfont
+
+% \title{}
+% \author{David M. Jones}
+% 
+% \maketitle
+
+% \nocite{}
+
+\bibliographystyle{books}
+
+\begin{thebibliography}{1000}
+\bibliography{abbrevs,books,books2}
+\end{thebibliography}
+
+\end{document}
