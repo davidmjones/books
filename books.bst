@@ -186,6 +186,34 @@ FUNCTION {emphasize}
   if$
 }
 INTEGERS { nameptr namesleft numnames }
+FUNCTION {format.author.names}
+{ 's :=
+  #1 'nameptr :=
+  s num.names$ 'numnames :=
+  numnames 'namesleft :=
+    { namesleft #0 > }
+    { s nameptr "{vv~}{ll}{, jj}{, ff}" format.name$ 't :=
+      nameptr #1 >
+        { namesleft #1 >
+            { ", " * t * }
+            { numnames #2 >
+                { "," * }
+                'skip$
+              if$
+              t "others" =
+                { " et~al." * }
+                { " and " * t * }
+              if$
+            }
+          if$
+        }
+        't
+      if$
+      nameptr #1 + 'nameptr :=
+      namesleft #1 - 'namesleft :=
+    }
+  while$
+}
 FUNCTION {format.names}
 { 's :=
   #1 'nameptr :=
@@ -217,7 +245,7 @@ FUNCTION {format.names}
 FUNCTION {format.authors}
 { author empty$
     { "" }
-    { author format.names }
+    { author format.author.names }
   if$
 }
 FUNCTION {format.editors}
@@ -593,26 +621,58 @@ FUNCTION {do.book}
         if$
     }
   if$
+  new.block
+  isbn-13 empty$
+    { isbn empty$
+        { "" }
+        { isbn }
+       if$
+    }
+    { isbn-13 }
+  if$
+  duplicate$
+  empty$
+    'skip$
+    { " " * }
+  if$
   cover empty$
     'skip$
-    { new.block
-      cover output
-    }
+    { cover * }
   if$
-  isbn-13 empty$
-  {
-    isbn empty$
-      'skip$
-      { new.block
-        isbn output
-      }
-    if$
-  }
-  {
-    new.block
-    isbn-13 output
-  }
-  if$
+  output
+%*  isbn-13 empty$
+%*    { isbn empty$
+%*        'skip$
+%*        { new.block isbn output }
+%*       if$
+%*    }
+%*    { new.block isbn-13 output }
+%*  if$
+%*  before.all 'output.state :=
+%*  cover empty$
+%*    'skip$
+%*    { cover output }
+%*  if$
+%   isbn-13 empty$
+%   {
+%     isbn empty$
+%       'skip$
+%       { new.block
+%         isbn output
+%       }
+%     if$
+%   }
+%   {
+%     new.block
+%     isbn-13 output
+%   }
+%   if$
+%   cover empty$
+%     'skip$
+%     { new.block
+%       cover output
+%     }
+%   if$
   fin.entry
   do.abstract
 }
