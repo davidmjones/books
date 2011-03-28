@@ -186,7 +186,7 @@ FUNCTION {emphasize}
   if$
 }
 INTEGERS { nameptr namesleft numnames }
-FUNCTION {format.author.names}
+FUNCTION {format.sort.names}
 { 's :=
   #1 'nameptr :=
   s num.names$ 'numnames :=
@@ -245,13 +245,13 @@ FUNCTION {format.names}
 FUNCTION {format.authors}
 { author empty$
     { "" }
-    { author format.author.names }
+    { author format.sort.names }
   if$
 }
 FUNCTION {format.editors}
 { editor empty$
     { "" }
-    { editor format.names
+    { editor format.sort.names
       editor num.names$ #1 >
         { ", editors" * }
         { ", editor" * }
@@ -262,7 +262,7 @@ FUNCTION {format.editors}
 FUNCTION {format.translators}
 { translator empty$
     { "" }
-    { translator format.names
+    { translator format.sort.names
       translator num.names$ #1 >
         { ", translators" * }
         { ", translator" * }
