@@ -19444,7 +19444,7 @@
 %t Keyboard Concerto No.~1 in D~minor, BWV~1052
 %t Jesu, Joy of Man's Desiring, BWV~147, \arr{Hess}
 %a Simone Dinnerstein
-%C Kammerorchester Staatskapelle Berlin
+%o Kammerorchester Staatskapelle Berlin
 %P Sony Classical
 %Y 2011
 %N 88697 81742~2
@@ -19529,3 +19529,23 @@
 %Y 2007
 %N AGO~006
 %D 22 April 2011
+
+%A Bach, Johann Sebastian
+%S Bach Cantatas
+%V 21
+%C John Eliot Gardiner
+%o The Monteverdi Choir and the English Baroque Soloists
+%Y 2006
+%P Monteverdi Productions
+%N SDG~118
+%D 5 May 2011
+
+%A Bach, Johann Sebastian
+%S Bach Cantatas
+%V 22
+%C John Eliot Gardiner
+%o The Monteverdi Choir and the English Baroque Soloists
+%Y 2007
+%P Monteverdi Productions
+%N SDG~128
+%D 6 May 2011
