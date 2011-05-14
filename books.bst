@@ -1,3 +1,4 @@
+% Based on:
 % version 1.02 of vanilla format derived from plain family
 % version 0.99a for BibTeX versions 0.99a or later, LaTeX version 2.09.
 % Copyright (C) 1985, all rights reserved.
@@ -31,6 +32,7 @@ ENTRY
     edition
     editor
     howpublished
+    impression
     imprint
     institution
     isbn
@@ -41,6 +43,8 @@ ENTRY
     note
     number
     organization
+    firstimprint
+    firstpublisher
     firstyear
     pages
     printing
@@ -391,6 +395,12 @@ FUNCTION {format.reprint}
     { " reprinted " reprint * }
   if$
 }
+FUNCTION {format.impression}
+{ impression empty$
+    { "" }
+    { impression }
+  if$
+}
 FUNCTION {format.reissued}
 { reissued empty$
     { "" }
@@ -566,6 +576,23 @@ FUNCTION {do.publisher}
   if$
 }
 
+FUNCTION {do.firstpublisher}
+{
+  firstimprint output
+  firstimprint empty$
+    { firstpublisher output }
+    {
+      firstpublisher empty$
+        'skip$
+        {
+          before.all 'output.state :=
+          " (" firstpublisher ")" * * output.nonnull
+        }
+      if$
+    }
+  if$
+}
+
 FUNCTION {do.book}
 { output.bibitem
   author empty$
@@ -588,6 +615,8 @@ FUNCTION {do.book}
       new.block
       format.number.series output
       new.sentence
+      do.firstpublisher
+      new.sentence
       do.publisher
       address output
   format.edition output
@@ -595,6 +624,7 @@ FUNCTION {do.book}
       'skip$
       { format.date "year" output.check }
   if$
+  format.impression output
   format.reprint output
   format.reissued output
   new.block
