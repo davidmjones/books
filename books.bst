@@ -196,7 +196,12 @@ FUNCTION {format.sort.names}
   s num.names$ 'numnames :=
   numnames 'namesleft :=
     { namesleft #0 > }
-    { s nameptr "{vv~}{ll}{, jj}{, ff}" format.name$ 't :=
+    { s nameptr
+      nameptr #1 > 
+        { "{ff~}{vv~}{ll}{, jj}" }
+        { "{vv~}{ll}{, jj}{, ff}" }
+      if$
+      format.name$ 't :=
       nameptr #1 >
         { namesleft #1 >
             { ", " * t * }
