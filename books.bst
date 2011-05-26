@@ -42,6 +42,7 @@ ENTRY
     month
     note
     number
+    numvols
     organization
     firstimprint
     firstpublisher
@@ -328,7 +329,13 @@ FUNCTION {format.date}
 FUNCTION {format.btitle}
 { title duplicate$ empty$
     { pop$ "" }
-    { "\booktitle{" swap$ * "}" * }
+    {
+      "\booktitle{" swap$ * "}" *
+      numvols empty$
+        'skip$
+        { " (" numvols * " vols)" * * }
+      if$
+    }
   if$
 }
 FUNCTION {tie.or.space.connect}
