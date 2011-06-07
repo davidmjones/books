@@ -52,6 +52,7 @@ ENTRY
     publisher
     reissued
     reprint
+    reprint-note
     sortgroup
     sortkey
     school
@@ -571,7 +572,14 @@ FUNCTION {do.publisher}
 {
   firstyear empty$
     'skip$
-    { "Reprint: " output before.all 'output.state := }
+    {
+      reprint-note empty$
+          { "Reprint" }
+          { reprint-note }
+      if$
+      ": " * output
+      before.all 'output.state :=
+    }
   if$
   imprint output
   imprint empty$
@@ -674,47 +682,14 @@ FUNCTION {do.book}
   if$
   duplicate$
   empty$
-    'skip$
-    { " " * }
+    { "" }
+    { " " }
   if$
   cover empty$
-    'skip$
-    { cover * }
+    'pop$
+    { * cover * }
   if$
   output
-%*  isbn-13 empty$
-%*    { isbn empty$
-%*        'skip$
-%*        { new.block isbn output }
-%*       if$
-%*    }
-%*    { new.block isbn-13 output }
-%*  if$
-%*  before.all 'output.state :=
-%*  cover empty$
-%*    'skip$
-%*    { cover output }
-%*  if$
-%   isbn-13 empty$
-%   {
-%     isbn empty$
-%       'skip$
-%       { new.block
-%         isbn output
-%       }
-%     if$
-%   }
-%   {
-%     new.block
-%     isbn-13 output
-%   }
-%   if$
-%   cover empty$
-%     'skip$
-%     { new.block
-%       cover output
-%     }
-%   if$
   fin.entry
   do.abstract
 }
