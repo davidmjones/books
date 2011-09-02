@@ -44,6 +44,7 @@ books.dvi: books.tex books.bbl books2.bbl books.sty
 	- $(L) books
 	./cullrefs.prl books
 	- $(L) books
+	- $(L) books
 
 books.bbl: books.bib abbrevs.bib books.bst
 	$(L) books.tex
