@@ -652,14 +652,6 @@ FUNCTION {do.book}
   new.block
   note output
   new.block
-  author empty$
-    'skip$
-    { editor empty$
-        'skip$
-        { "Edited by " editor format.names * output }
-      if$
-    }
-  if$
   author empty$ editor empty$ and
     'skip$
     {
@@ -669,6 +661,14 @@ FUNCTION {do.book}
               "Translated by " translator format.names * output
             }
         if$
+    }
+  if$
+  author empty$
+    'skip$
+    { editor empty$
+        'skip$
+        { "Edited by " editor format.names * output }
+      if$
     }
   if$
   new.block
