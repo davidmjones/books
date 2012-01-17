@@ -57,6 +57,7 @@ ENTRY
     sortkey
     school
     series
+    subtitle
     title
     translator
     type
@@ -370,6 +371,10 @@ FUNCTION {format.bvolume}
         { " of " * series emphasize * }
       if$
       "volume and number" number either.or.check
+      subtitle empty$
+        'skip$
+        { ": \booktitle{" * subtitle * "}" * }
+      if$
     }
   if$
 }
