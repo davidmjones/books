@@ -61,6 +61,7 @@ ENTRY
     title
     translator
     type
+    vedition
     volume
     year
   }
@@ -407,6 +408,16 @@ FUNCTION {format.edition}
     }
   if$
 }
+FUNCTION {format.vedition}
+{ vedition empty$
+    { "" }
+    { output.state mid.sentence =
+        { vedition "l" change.case$ }
+        { vedition "t" change.case$ }
+      if$
+    }
+  if$
+}
 FUNCTION {format.reprint}
 { reprint empty$
     { "" }
@@ -645,6 +656,7 @@ FUNCTION {do.book}
       do.publisher
       address output
   format.edition output
+  format.vedition output
   firstyear empty$
       'skip$
       { format.date "year" output.check }
