@@ -647,6 +647,8 @@ FUNCTION {do.book}
   if$
   new.block
   format.btitle "title" output.check
+  format.edition output
+  format.vedition output
       format.bvolume output
       new.block
       format.number.series output
@@ -655,8 +657,6 @@ FUNCTION {do.book}
       new.sentence
       do.publisher
       address output
-  format.edition output
-  format.vedition output
   firstyear empty$
       'skip$
       { format.date "year" output.check }
