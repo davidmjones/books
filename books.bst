@@ -63,6 +63,7 @@ ENTRY
     type
     vedition
     volume
+    voltitle
     year
   }
   {}
@@ -334,6 +335,10 @@ FUNCTION {format.btitle}
     { pop$ "" }
     {
       "\booktitle{" swap$ * "}" *
+      subtitle empty$
+        'skip$
+        { ": \booktitle{" * subtitle * "}" * }
+      if$
       numvols empty$
         'skip$
         { " (" numvols * " vols)" * * }
@@ -372,9 +377,9 @@ FUNCTION {format.bvolume}
         { " of " * series emphasize * }
       if$
       "volume and number" number either.or.check
-      subtitle empty$
+      voltitle empty$
         'skip$
-        { ": \booktitle{" * subtitle * "}" * }
+        { ": \booktitle{" * voltitle * "}" * }
       if$
     }
   if$
