@@ -689,7 +689,7 @@ FUNCTION {do.book}
     'skip$
     { editor empty$
         'skip$
-        { "Edited by " editor format.names * output }
+        { new.block "Edited by " editor format.names * output }
       if$
     }
   if$
