@@ -121,7 +121,7 @@
 
 %T Pushing Hands
 %F DVD
-%P Image Entertainment 
+%P Image Entertainment
 
 %T Full Contact
 %F DVD
@@ -142,10 +142,10 @@
 
 %%  %T Fantasia
 %%  %F DVD
-%%  
+%%
 %%  %T Fantasia 2000
 %%  %F DVD
-%%  
+%%
 %%  %T Fantasia: The Legacy
 %%  %F DVD
 
@@ -1316,7 +1316,7 @@
 %D 22 Dec 2005
 
 %T Dr. Strangelove, or: How I Learned to Stop Worrying and Love the
-   Bomb 
+   Bomb
 %I 1-4049-4616-0
 %D 22 Dec 2005
 
@@ -2205,7 +2205,7 @@
 
 %T Life
 %d 4
-%I 1-4198-9014-X 
+%I 1-4198-9014-X
 %F BR
 %D 1 Jun 2010
 
@@ -3358,7 +3358,7 @@
 %T Othello
 %S Shakespeare's Globe Theatre
 %F DVD
-%d 
+%d
 %D 22 June 2012
 
 %T Romeo and Juliet
@@ -3661,7 +3661,7 @@ $F BR
 %t Return of Daimajin
 %t Daimajin Strikes Again
 %d 2
-%F BR 
+%F BR
 %D 21 Feb 2013
 
 %T The Good, the Bad, the Weird
@@ -3676,7 +3676,7 @@ $F BR
 %D 21 Feb 2013
 
 %T Ip Man 2
-%F BR 
+%F BR
 %N WGU01200B
 %D 21 Feb 2013
 
@@ -4020,3 +4020,44 @@ $F BR
 %F BR
 %d 4
 %D 29 November 2013
+
+%T The Wolverine
+%F BR+DVD
+%D 3 December 2013
+
+%T Simpsons, The: Season~16
+%d 3
+%F BR
+%D 3 December 2013
+
+%T Stargate SG-1, Season~9
+%d 5
+%D 3 December 2013
+
+%T Stargate SG-1, Season~10
+%d 5
+%D 3 December 2013
+
+%T Smallville: The Complete Seventh Season
+%I 1-4198-7458-6
+%F BR
+%d 4
+%D 3 December 13
+
+%T Smallville: The Complete Eighth Season
+%I 1-4198-8385-2
+%F BR
+%d 4
+%D 3 December 13
+
+%T Smallville: The Complete Ninth Season
+%I 1-4198-9101-4
+%F BR
+%d 4
+%D 3 December 13
+
+%T Smallville: The Complete Tenth Season
+%I 0-7806-6794-8
+%F BR
+%d 4
+%D 3 December 13
