@@ -18804,7 +18804,7 @@
 %P Rhino
 %Y 1957/2009
 %N WOU 5020
-%Y 3 August 2010
+%D 3 August 2010
 
 %A Isaak, Chris
 %T ``Mr. Lucky''
@@ -19288,7 +19288,7 @@
 %t Brandenburg Concerto no.~4 in G~major
 %t Brandenburg Concerto no.~5 in D~major
 %t Brandenburg Concerto no.~6 in B~flat minor
-%T Das Musikalische Opfer
+%o Das Musikalische Opfer
 %C Pablo Casals
 %P Pearl
 %Y 2003
@@ -19848,3 +19848,14 @@
 %N ACD-71289
 %d 2
 %D 29 May 2014
+
+%A Beethoven, Ludwig van
+%T Complete String Quartets, Volume~3
+%t String Quartet in C minor, Op.~18, No.~4
+%t `Grand Fugue' in B~flat major, Op.~133
+%t String Quartet in F major, Op.~59, No.~1
+%a Quartetto di Cremona
+%P audite
+%Y 2014
+%N 92.682
+%D 10 Jun 2014
