@@ -5403,7 +5403,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 2
+%V \noop{0}2
 %a Stephen Varcoe (baritone)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -5424,7 +5424,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 1
+%V \noop{0}1
 %a Dame Janet Baker (mezzo soprano)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -5631,7 +5631,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 3
+%V \noop{0}3
 %a Ann Murray (mezzo soprano)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -5641,7 +5641,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 4
+%V \noop{0}4
 %a Philip Langridge (teno)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -5651,7 +5651,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 5
+%V \noop{0}5
 %a Elizabeth Connell (soprano)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -5661,7 +5661,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 6
+%V \noop{0}6
 %a Anthony Rolfe Johnson (tenor)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -5671,7 +5671,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 7
+%V \noop{0}7
 %a Elly Ameling (soprano)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -8232,7 +8232,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 8
+%V \noop{0}8
 %a Sarah Walker (mezzo soprano)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -8243,7 +8243,7 @@
 
 %A Schubert, Franz
 %S The Hyperion Schubert Edition
-%V 9
+%V \noop{0}9
 %a Arleen Auger (soprano)
 %a Graham Johnson (piano)
 %P Hyperion Records
@@ -19892,3 +19892,12 @@
 %N 20288-2
 %d 2
 %D 10 Jun 2014
+
+%A Schubert, Franz
+%T The Piano Trios
+%a The Beaux Arts Trio
+%P Decca
+%Y 1985/2006
+%N 475 7571
+%d 2
+%D 29 Jul 2014
