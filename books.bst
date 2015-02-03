@@ -334,11 +334,11 @@ FUNCTION {format.btitle}
 { title duplicate$ empty$
     { pop$ "" }
     {
-      "\booktitle{" swap$ * "}" *
       subtitle empty$
         'skip$
-        { ": \booktitle{" * subtitle * "}" * }
+        { ": " * subtitle * }
       if$
+      "\booktitle{" swap$ * "}" *
       numvols empty$
         'skip$
         { " (" numvols * " vols)" * * }
