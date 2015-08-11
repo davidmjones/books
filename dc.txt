@@ -97,11 +97,11 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 
 # The Black Razers Blackhawk group appears in Legion Lost and Voodoo.
 
-• Green Lantern: New Guardians Vol. 1: The Ring Bearer
+* • Green Lantern: New Guardians Vol. 1: The Ring Bearer
 • Voodoo Vol. 1: What Lies Beneath
 * • Green Lantern Vol. 1: Sinestro
-• Red Lanterns Vol. 1: Blood and Rage
-• Green Lantern Corps Vol. 1: Fearsome
+* • Red Lanterns Vol. 1: Blood and Rage
+* • Green Lantern Corps Vol. 1: Fearsome
 
 # The Green Lantern book is most closely connected with the "old" DC
 # Universe, taking place right after War of the Green Lanterns:
@@ -126,7 +126,7 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 # mostly independent from the rest of the DC Universe in their first
 # volumes.
 
-• Superman: Action Comics Vol. 2: Bulletproof
+* • Superman: Action Comics Vol. 2: Bulletproof
 
 # Takes place five years before the current DC Universe.
 
@@ -151,8 +151,8 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 # All of these trades tie in to Night of the Owls except Batman: Dark
 # Knight: Cycle of Violence.
 
-• Superman Vol. 2: Secrets and Lies
-• Red Hood and the Outlaws Vol. 2: The Starfire
+* • Superman Vol. 2: Secrets and Lies
+* • Red Hood and the Outlaws Vol. 2: The Starfire
 
 # The last chapter of Superman: Secrets and Lies relates to the last
 # chapter of Red Hood and the Outlaws: The Starfire.
@@ -254,7 +254,7 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 • Trinity of Sin: Phantom Stranger Vol. 1: A Stranger Among Us
 • Birds of Prey Vol. 3: A Clash of Daggers
 * • Teen Titans Vol. 3: Death of the Family
-• Red Hood and the Outlaws Vol. 3: Death of the Family
+* • Red Hood and the Outlaws Vol. 3: Death of the Family
 
 # The Phantom Stranger appears in Justice League Dark; Raven appears
 # in Phantom Stranger and then in Teen Titans; Teen Titans crosses
