@@ -108,7 +108,7 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 # Aftermath. Green Lantern: Sinestro, Green Lantern: New Guardians,
 # and the Red Lanterns book all interconnect.
 
-• Catwoman Vol. 1: The Game
+* • Catwoman Vol. 1: The Game
 * Batman: Detective Comics Vol. 1: Faces of Death
 • Suicide Squad Vol. 1: Kicked in the Teeth
 
@@ -146,7 +146,7 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 • Birds of Prey Vol. 2: Your Kiss Might Kill
 • Batman: The Dark Knight Vol. 1: Knight Terrors
 • Batman: The Dark Knight Vol. 2: Cycle of Violence
-• Catwoman Vol. 2: Dollhouse
+* • Catwoman Vol. 2: Dollhouse
 
 # All of these trades tie in to Night of the Owls except Batman: Dark
 # Knight: Cycle of Violence.
@@ -270,7 +270,7 @@ http://collectededitions.blogspot.com/2012/10/best-dc-comics-new-52-guides-and-r
 • Demon Knights Vol. 3: The Gathering Storm
 • All-Star Western Vol. 3: The Black Diamond Probability
 • Team 7 Vol. 1: Fight Fire with Fire
-• Catwoman Vol. 3: Death of the Family
+* • Catwoman Vol. 3: Death of the Family
 
 # Demon Knights, All-Star Western, Catwoman, and Team 7 are all part
 # of the "Black Diamond Probability" event. Catwoman connects to Death
