@@ -6,6 +6,8 @@ new: new.dvi
 
 probation: probation.tex probation.dvi
 
+vsi: vsi.tex vsi.dvi
+
 book: books.dvi
 
 cd: cd.dvi
@@ -69,6 +71,14 @@ probation.dvi: probation.tex probation.bbl books.sty
 probation.bbl: books.bib books2.bib abbrevs.bib books.bst
 	$(L) probation.tex
 	bibtex probation
+
+vsi.dvi: vsi.tex vsi.bbl books.sty
+	- $(L) vsi
+	$(L) vsi
+
+vsi.bbl: books.bib books2.bib abbrevs.bib books.bst
+	$(L) vsi.tex
+	bibtex vsi
 
 cd.dvi: cd.tex cd.ltx 
 	$(L) cd.tex
