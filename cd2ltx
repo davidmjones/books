@@ -1,5 +1,7 @@
 #!/usr/bin/perl
 
+use lib qw(/home/dmj/lib/perl);
+
 use CD;
 
 my $file = shift;
