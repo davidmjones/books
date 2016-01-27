@@ -14,6 +14,7 @@
  21. Stuart Britain
  54. The French Revolution
  60. Shakespeare
+ 79. Plato
 113. Hieroglyphs
 119. Christianity
 143. The Dead Sea Scrolls
@@ -39,6 +40,7 @@
 261. Muhammad
 272. Herodotus
 277. Protestantism
+281. Dictionaries
 286. Ancient Greece
 287. Angels
 302. Chinese Literature
