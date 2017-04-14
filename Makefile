@@ -1,4 +1,4 @@
-L = pdflatex#2e
+L = latex#2e
 
 all: list cd new probation dvds book
 
