@@ -19,9 +19,11 @@
 \renewcommand{\(}{\textup(}
 \renewcommand{\)}{\textup)}
 
-\begin{document}
+\usepackage[T5,T1]{fontenc}
 
-\fontencoding{T1}
+\usepackage{amsviet}
+
+\begin{document}
 
 \ifsmall
     \fontsize{7.5pt}{9pt}
@@ -41,6 +43,8 @@
 \begin{thebibliography}{1000}
 %\advance\leftmargin1em
 \itemindent-1em
+
+\tracingmacros=1
 
 \bibliography{abbrevs,new}
 

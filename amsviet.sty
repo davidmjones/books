@@ -1,0 +1,81 @@
+%%
+%% This is file `amsviet.sty',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% amsviet.dtx 
+%% 
+%%% ====================================================================
+%%% @LaTeX-file{
+%%%   filename  = "amsviet.dtx",
+%%%   version   = "1.00",
+%%%   date      = "2008/04/17",
+%%%   time      = "10:53:31 EDT",
+%%%   checksum  = "35954 284 1203 10148",
+%%%   author    = "American Mathematical Society",
+%%%   copyright = "Copyright 2001 American Mathematical Society,
+%%%                all rights reserved.  Copying of this file is
+%%%                authorized only if either:
+%%%                (1) you make absolutely no changes to your copy,
+%%%                including name; OR
+%%%                (2) if you do make changes, you first rename it
+%%%                to some other name.",
+%%%   address   = "American Mathematical Society,
+%%%                Technical Support,
+%%%                Electronic Products and Services,
+%%%                P. O. Box 6248,
+%%%                Providence, RI 02940,
+%%%                USA",
+%%%   telephone = "401-455-4080 or (in the USA and Canada)
+%%%                800-321-4AMS (321-4267)",
+%%%   FAX       = "401-331-3842",
+%%%   email     = "tech-support@ams.org (Internet)",
+%%%   codetable = "ISO/ASCII",
+%%%   keywords  = "vietnamese accents, latex",
+%%%   supported = "yes",
+%%%   abstract  = "This is the source for the amsviet package which
+%%%                provides input coding conventions for Vietnamese
+%%%                vowels with diacritics.  This is designed for use
+%%%                with LaTeX.",
+%%%   docstring = "The checksum field above contains a CRC-16
+%%%                checksum as the first value, followed by the
+%%%                equivalent of the standard UNIX wc (word
+%%%                count) utility output of lines, words, and
+%%%                characters.  This is produced by Robert
+%%%                Solovay's checksum utility.",
+%%% }
+%%% ====================================================================
+\NeedsTeXFormat{LaTeX2e}[2005/12/01]
+\ProvidesPackage{amsviet}[2008/04/17 v1.00 Vietnamese alphabet support]
+\RequirePackage{dblaccnt}
+\let\vntex@DeclareTextDoubleComposite\DeclareTextDoubleComposite
+
+\def\DeclareTextDoubleComposite#1#2#3#4#5{%
+    \vntex@DeclareTextDoubleComposite{#1}{#2}{#3}{#4}{#5}%
+    \vntex@DeclareTextDoubleComposite{#3}{#2}{#1}{#4}{#5}%
+}
+\RequirePackage[T5,\encodingdefault]{fontenc}
+\providecommand\vietrmdefault{lmr}
+\providecommand\vietsfdefault{lmss}
+\providecommand\vietttdefault{lmtt}
+\DeclareFontSubstitution{T5}{\vietrmdefault}{m}{n}
+\DeclareRobustCommand\vietenc{%
+    \not@math@alphabet\vietenc\relax
+    \fontencoding{T5}%
+    \long\edef\f@family{\f@family}%
+    \long\edef\sfdefault{\sfdefault}%
+    \long\edef\ttdefault{\ttdefault}%
+    \ifx\f@family\sfdefault
+        \fontfamily\vietsfdefault
+    \else\ifx\f@family\ttdefault
+        \fontfamily\vietttdefault
+    \else
+        \fontfamily\vietrmdefault
+    \fi\fi
+    \selectfont
+}
+\DeclareTextFontCommand{\textviet}{\vietenc}
+\endinput
+%%
+%% End of file `amsviet.sty'.
