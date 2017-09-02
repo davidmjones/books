@@ -533,11 +533,6 @@
 %F DVD
 %D 5 Feb 2004
 
-%T Tai-Chi Master, The
-%P Universe Laser and Video
-%F DVD
-%D 5 Feb 2004
-
 %T Fong Sai Yuk
 %P Universe Laser and Video
 %F DVD
@@ -686,11 +681,6 @@
 %P MGM
 %D 20 Mar 2004
 
-%T Stand and Deliver
-%P Warner Home Video
-%N 16377
-%D 20 Mar 2004
-
 %T Forbidden Planet
 %P Warner Home Video
 %N 65059
@@ -737,12 +727,6 @@
 %I 0-7832-3347-7
 %F DVD
 %D 6 May 2004
-
-%T R.O.D. (Read or Die)
-%N MANGA4139-2
-%P Manga Video
-%F DVD
-%D 13 May 2004
 
 %T Buffy the Vampire Slayer, Season 6
 %F DVD
@@ -2117,10 +2101,6 @@
 %I 1-4198-8190-6
 %D 31 Jul 2010
 
-%T Burn Notice, Season One
-%d 4
-%D 4 August 2010
-
 %T Stargate SG-1, Season~1
 %d 5
 %D 4 August 2010 (used)
@@ -3332,11 +3312,6 @@
 %I 0-7697-8577-8
 %D 10 December 2012
 
-%T How I Met Your Mother, Season~1
-%F DVD
-%d 3
-%D 10 December 2012
-
 %T Futurama, Volume Seven
 %F BR
 %d 2
@@ -3684,13 +3659,6 @@ $F BR
 %F DVD
 %D 8 October 2013
 
-%T Luther
-%I 0-7806-6567-8
-%P BBC DVD
-%d 2
-%F DVD
-%D 8 October 2013
-
 %T Much Ado about Nothing
 %F BR
 %D 8 October 2013
@@ -3919,19 +3887,6 @@ $F BR
 %d 5
 %D 7 July 2014
 
-%T Luther~2
-%I 0-7806-8260-2
-%P BBC DVD
-%d 2
-%F DVD
-%D 6 August 2014
-
-%T Luther~3
-%P BBC DVD
-%d 2
-%F DVD
-%D 6 August 2014
-
 %T Orphan Black: Season Two
 %F BR
 %d 2
@@ -4037,11 +3992,6 @@ $F BR
 %d 3
 %D 8 Oct 2014
 
-%T Penny Dreadful: The Complete First Season
-%F BR
-%d 3
-%D 14 Oct 2014
-
 %T X-Men: Days of Future Past
 %F BR
 %D 14 Oct 2014
@@ -4092,11 +4042,6 @@ $F BR
 %F BR
 %d 2
 %D 19 Dec 2014
-
-%T House of Cards: Volume One (Chapters 1--13)
-%F BR
-%d 4
-%D 22 Dec 2014
 
 %T Thor: The Dark World
 %F BR+BR3D
@@ -4194,10 +4139,6 @@ $F BR
 %F BR+DVD
 %D 14 April 2015
 
-%T The Babadook
-%F BR
-%D 14 April 2015
-
 %T Son of Batman
 %F BR
 %D 20 May 2015
@@ -4236,16 +4177,6 @@ $F BR
 %F BR
 %d 2
 %D 19 Jun 2015
-
-%T Black Mirror: The Complete First Season
-%F DVD
-%R 9 (PAL)
-%D 19 Jun 2015
-
-%T Black Mirror: The Complete Second Season
-%F DVD
-%R 9 (PAL)
-%D 6 Jul 2015
 
 %T The Taking of Tiger Mountain
 %F BR
@@ -4445,10 +4376,6 @@ $F BR
 %F BR
 %D 22 Jan 2016
 
-%T The Secret of NIMH
-%F BR
-%D 22 Jan 2016
-
 %T Ode to Billy Joe
 %F DVD
 %D 22 Jan 2016
@@ -4588,11 +4515,6 @@ $F BR
 %d 2
 %D 9 Aug 2016
 
-%T Supergirl: The Complete First Season
-%F BR
-%d 3
-%D 9 Aug 2016
-
 %T Gotham, Season~2
 %F BR
 %d 4
@@ -4616,11 +4538,6 @@ $F BR
 %T Lucifer: The Complete First Season
 %F DVD
 %d 3
-%D 23 Aug 2016
-
-%T DC's Legends of Tomorrow: The Complete First Season
-%F BR
-%d 2
 %D 23 Aug 2016
 
 %T Arrow: The Complete Fourth Season
@@ -4699,11 +4616,6 @@ $F BR
 %d 11
 %D 20 Nov 2016
 
-%T Into the Badlands
-%F BR
-%d 2
-%D 7 Dec 2016
-
 %T Pedicab Driver
 %F DVD
 %D 13 Dec 2016
@@ -4738,11 +4650,6 @@ $F BR
 %F UHD
 %d 3
 %D 28 Mar 2017
-
-%T Luther~4
-%P BBC DVD
-%F DVD
-%D 29 Mar 2017
 
 %T Election
 %F BR
@@ -4810,3 +4717,8 @@ $F BR
 %F BR
 %d 4
 %D 22 Aug 2017
+
+%T Gotham, Season~3
+%F BR
+%d 4
+%D 1 Sep 2016
