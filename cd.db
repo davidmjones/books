@@ -20770,7 +20770,7 @@
 %t \C{Andres, Timo} Words Fail
 %t \C{Tchaikovsky, Pyotr Ilyich} Song without Words
 %t \C{Prokofiev, Sergei} Five Melodies, Op.~35bis
-%t \C{Alivier Messiaen} Th\`eme et variations
+%t \C{Messiaen, Olivier} Th\`eme et variations
 %t \C{Auerbach, Lera} T'filah (Prayer) for solo violin
 %a John Novacek (piano)
 %a Timo Andres (piano)
@@ -21041,3 +21041,32 @@
 %Y 2013
 %N OP~30554
 %D 23 Jan 2018
+
+%A Debussy, Claude
+%t Estampes
+%t Images~I
+%t Images~II
+%t Children's Corner
+%t La plus que lente
+%t L'isle joyeuse
+%a Stephen Hough
+%P Hyperion
+%Y 2018
+%N CDA68139
+%D 26 January 2018
+
+%A Moser, Johannes
+%T Elgar and Tchaikovsky
+%t \C{Edward Elgar} Cello Concerto in E~minor, Op.~85
+%t \C{Piotr Ilyich Tchaikovsky} Variations on a Rococo Theme (original
+    version), Op.~33 \and
+    Nocturne for Cello and Orchestra \and
+    Andante Cantabile for Cello and String Orchestra \and
+    Pezzo Capriccioso, Op.~62
+%o Ochestre de la Suisse Romande
+%c Andrew Manze
+%P Pentatone
+%Y 2017
+%N PTC 5186 570
+%D 26 January 2018
+
