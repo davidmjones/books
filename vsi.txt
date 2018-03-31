@@ -67,3 +67,5 @@
 424. Ancient Assyria
 450. Moons
 477. Savannas
+512. Gravity
+529. Oceans
