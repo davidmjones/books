@@ -13,6 +13,7 @@
  20. The Tudors
  21. Stuart Britain
  27. Socrates
+ 51. Cosmology
  54. The French Revolution
  60. Shakespeare
  77. Fascism
@@ -66,6 +67,7 @@
 418. Human Anatomy
 424. Ancient Assyria
 450. Moons
+453. Black Holes
 477. Savannas
 512. Gravity
 529. Oceans
