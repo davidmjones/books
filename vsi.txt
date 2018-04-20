@@ -41,6 +41,7 @@
 226. The Laws of Thermodynamics
 229. The New Testament
 252. Martin Luther
+254. Planets
 258. Late Antiquity
 261. Muhammad
 272. Herodotus
@@ -68,6 +69,7 @@
 424. Ancient Assyria
 450. Moons
 453. Black Holes
+470. Astrophysics
 477. Savannas
 512. Gravity
 529. Oceans
