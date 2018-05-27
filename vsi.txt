@@ -18,6 +18,9 @@
  60. Shakespeare
  77. Fascism
  79. Plato
+ 96. Prehistory
+109. Particle Physics
+112. Ancient Egypt
 113. Hieroglyphs
 119. Christianity
 131. Tragedy
@@ -73,3 +76,4 @@
 477. Savannas
 512. Gravity
 529. Oceans
+538. Nuclear Physics
