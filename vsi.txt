@@ -76,4 +76,7 @@
 477. Savannas
 512. Gravity
 529. Oceans
+530. Utilitarianism
 538. Nuclear Physics
+550. Fairy Tale
+558. Anthropocene
