@@ -19,6 +19,10 @@
 \renewcommand{\(}{\textup(}
 \renewcommand{\)}{\textup)}
 
+\newcommand{\addcolon}{%
+    \ifnum\spacefactor>1000 \else:\fi\space
+}
+
 \usepackage[T5,T1]{fontenc}
 
 \usepackage{amsviet}
@@ -43,8 +47,6 @@
 \begin{thebibliography}{1000}
 %\advance\leftmargin1em
 \itemindent-1em
-
-\tracingmacros=1
 
 \bibliography{abbrevs,new}
 

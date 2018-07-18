@@ -336,7 +336,7 @@ FUNCTION {format.btitle}
     {
       subtitle empty$
         'skip$
-        { ": " * subtitle * }
+        { "\addcolon " * subtitle * }
       if$
       "\booktitle{" swap$ * "}" *
       numvols empty$
@@ -379,7 +379,7 @@ FUNCTION {format.bvolume}
       "volume and number" number either.or.check
       voltitle empty$
         'skip$
-        { ": \booktitle{" * voltitle * "}" * }
+        { "\addcolon \booktitle{" * voltitle * "}" * }
       if$
     }
   if$
