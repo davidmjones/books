@@ -39,6 +39,7 @@
 208. Writing and Script
 212. Puritanism
 213. The Reformation
+217. Biblical Archaeology
 219. The Book of Mormon
 220. Islamic History
 226. The Laws of Thermodynamics
@@ -71,6 +72,7 @@
 418. Human Anatomy
 424. Ancient Assyria
 434. Liberalism
+445. Philosophy in the Islamic World
 450. Moons
 453. Black Holes
 470. Astrophysics
