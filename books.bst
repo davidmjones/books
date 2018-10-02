@@ -48,6 +48,7 @@ ENTRY
     firstpublisher
     firstyear
     pages
+    part
     printing
     publisher
     reissued
@@ -362,7 +363,11 @@ FUNCTION {either.or.check}
 FUNCTION {format.bvolume}
 { volume empty$
     { bookvol empty$
-      { "" }
+      { part empty$
+          { "" }
+          { "part" part tie.or.space.connect }
+        if$ 
+      }
       { "book" bookvol tie.or.space.connect
         series empty$
           'skip$
