@@ -20,6 +20,7 @@
  60. Shakespeare
  77. Fascism
  79. Plato
+ 80. Ethics
  96. Prehistory
 103. Presocratic Philosophy
 109. Particle Physics
@@ -75,6 +76,7 @@
 386. Microeconomics
 388. The Eye
 399. Genes
+400. Knowledge
 418. Human Anatomy
 424. Ancient Assyria
 434. Liberalism
