@@ -17347,8 +17347,8 @@
 %Y 2002
 %D 31 January 2005
 
-%E Wilentz, Sean
-%E Marcus, Greil
+%A Wilentz, Sean
+%A Marcus, Greil
 %T The Rose and the Briar
 %P Columbia/Legacy
 %Y 2004
@@ -21304,7 +21304,7 @@
 %D 31 July 2019
 
 %A Orli\'nski, Jakub J\'ozef
-%Y Anima Sacra
+%T Anima Sacra
 %C Maxim Emelyanychev
 %o Il Pomo d'Oro
 %P Erato
@@ -21368,11 +21368,22 @@
 %D 22 Aug 2019
 
 %T Songs of Our Native Daughters
-%T Giddens, Rhiannon
-%T Kiah, Amythyst
-%T McCalla, Leyla
-%T Russell, Allison
+%a Giddens, Rhiannon
+%a Kiah, Amythyst
+%a McCalla, Leyla
+%a Russell, Allison
 %P Smithsonian Folkways Recordings
 %Y 2019
 %N SFW CD 40232
 %D 23 Aug 2019
+
+%A H\"andel, Georg Friedrich
+%a Orli\'nski, Jakub J\'ozef
+%a Kawa{\l}ek, Natalia
+%T Enemies in Love
+%C Stefan Plewniak
+%o Il Giardino d'Amore
+%P \"Evoe Recrods
+%Y 2018
+%N \"Evoe 005
+%D 29 August 2019
