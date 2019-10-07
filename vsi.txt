@@ -1,27 +1,27 @@
-  1. Classics
-  2. Music
-  3. Buddhism
-  4. Literary Theory (revised)
-  5. Hinduism
-  7. Islam
- 11. Judaism
- 13. The Koran
- 14. The Bible
- 17. Roman Britain
- 18. The Anglo-Saxon Age
- 19. Medieval Britain
- 20. The Tudors
- 21. Stuart Britain
- 26. Ancient Philosophy
- 27. Socrates
- 32. Aristotle
- 51. Cosmology
- 54. The French Revolution
- 60. Shakespeare
- 77. Fascism
- 79. Plato
- 80. Ethics
- 96. Prehistory
+001. Classics
+002. Music
+003. Buddhism
+004. Literary Theory (revised)
+005. Hinduism
+007. Islam
+011. Judaism
+013. The Koran
+014. The Bible
+017. Roman Britain
+018. The Anglo-Saxon Age
+019. Medieval Britain
+020. The Tudors
+021. Stuart Britain
+026. Ancient Philosophy
+027. Socrates
+032. Aristotle
+051. Cosmology
+054. The French Revolution
+060. Shakespeare
+077. Fascism
+079. Plato
+080. Ethics
+096. Prehistory
 103. Presocratic Philosophy
 109. Particle Physics
 110. Free Will
@@ -82,6 +82,7 @@
 418. Human Anatomy
 424. Ancient Assyria
 434. Liberalism
+438. Nuclear Physics
 445. Philosophy in the Islamic World
 450. Moons
 453. Black Holes
@@ -92,7 +93,6 @@
 518. The Atmosphere
 529. Oceans
 530. Utilitarianism
-538. Nuclear Physics
 550. Fairy Tale
 558. Anthropocene
 566. The U.S. Constitution
