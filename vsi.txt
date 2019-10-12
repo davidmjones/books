@@ -1,100 +1,101 @@
-001. Classics
-002. Music
-003. Buddhism
-004. Literary Theory (revised)
-005. Hinduism
-007. Islam
-011. Judaism
-013. The Koran
-014. The Bible
-017. Roman Britain
-018. The Anglo-Saxon Age
-019. Medieval Britain
-020. The Tudors
-021. Stuart Britain
-026. Ancient Philosophy
-027. Socrates
-032. Aristotle
-051. Cosmology
-054. The French Revolution
-060. Shakespeare
-077. Fascism
-079. Plato
-080. Ethics
-096. Prehistory
-103. Presocratic Philosophy
-109. Particle Physics
-110. Free Will
-112. Ancient Egypt
-113. Hieroglyphs
-119. Christianity
-121. Consciousness
-131. Tragedy
-143. The Dead Sea Scrolls
-149. Anglicanism
-150. The Roman Empire
-155. Fundamentalism
-156. Economics
-167. Classical Mythology
-173. Game Theory
-177. The Quakers
-181. The Old Testament
-182. Galaxies
-183. Mormonism
-193. The History of Life
-194. Memory
-198. Catholicism
-201. The Apocryphal Gospels
-208. Writing and Script
-212. Puritanism
-213. The Reformation
-217. Biblical Archaeology
-219. The Book of Mormon
-220. Islamic History
-226. The Laws of Thermodynamics
-229. The New Testament
-252. Martin Luther
-254. Planets
-258. Late Antiquity
-261. Muhammad
-272. Herodotus
-277. Protestantism
-281. Dictionaries
-286. Ancient Greece
-287. Angels
-295. Sleep
-302. Chinese Literature
-315. The Devil
-320. Languages
-322. Stars
-349. The British Constitution
-356. The Trojan War
-359. The Palestinian-Israeli Conflict
-370. Astrobiology
-373. Tibetan Buddhism
-374. The Ancient Near East
-377. African Religions
-384. Teeth
-386. Microeconomics
-388. The Eye
-399. Genes
-400. Knowledge
-418. Human Anatomy
-424. Ancient Assyria
-434. Liberalism
-438. Nuclear Physics
-445. Philosophy in the Islamic World
-450. Moons
-453. Black Holes
-470. Astrophysics
-477. Savannas
-505. Behavioural Economics
-512. Gravity
-518. The Atmosphere
-529. Oceans
-530. Utilitarianism
-550. Fairy Tale
-558. Anthropocene
-566. The U.S. Constitution
-584. Typography
-598. Homer
+001 Classics
+002 Music
+003 Buddhism
+004 Literary Theory (revised)
+005 Hinduism
+007 Islam
+011 Judaism
+013 The Koran
+014 The Bible
+017 Roman Britain
+018 The Anglo-Saxon Age
+019 Medieval Britain
+020 The Tudors
+021 Stuart Britain
+026 Ancient Philosophy
+027 Socrates
+032 Aristotle
+051 Cosmology
+054 The French Revolution
+060 Shakespeare
+077 Fascism
+079 Plato
+080 Ethics
+096 Prehistory
+103 Presocratic Philosophy
+109 Particle Physics
+110 Free Will
+112 Ancient Egypt
+113 Hieroglyphs
+119 Christianity
+121 Consciousness
+131 Tragedy
+143 The Dead Sea Scrolls
+149 Anglicanism
+150 The Roman Empire
+155 Fundamentalism
+156 Economics
+167 Classical Mythology
+173 Game Theory
+177 The Quakers
+181 The Old Testament
+182 Galaxies
+183 Mormonism
+193 The History of Life
+194 Memory
+198 Catholicism
+201 The Apocryphal Gospels
+208 Writing and Script
+212 Puritanism
+213 The Reformation
+217 Biblical Archaeology
+219 The Book of Mormon
+220 Islamic History
+226 The Laws of Thermodynamics
+229 The New Testament
+252 Martin Luther
+254 Planets
+258 Late Antiquity
+261 Muhammad
+272 Herodotus
+277 Protestantism
+281 Dictionaries
+286 Ancient Greece
+287 Angels
+295 Sleep
+302 Chinese Literature
+315 The Devil
+320 Languages
+322 Stars
+349 The British Constitution
+356 The Trojan War
+359 The Palestinian-Israeli Conflict
+370 Astrobiology
+373 Tibetan Buddhism
+374 The Ancient Near East
+377 African Religions
+384 Teeth
+386 Microeconomics
+388 The Eye
+399 Genes
+400 Knowledge
+418 Human Anatomy
+424 Ancient Assyria
+434 Liberalism
+438 Nuclear Physics
+445 Philosophy in the Islamic World
+450 Moons
+453 Black Holes
+470 Astrophysics
+477 Savannas
+505 Behavioural Economics
+512 Gravity
+518 The Atmosphere
+529 Oceans
+530 Utilitarianism
+550 Fairy Tale
+558 Anthropocene
+566 The U.S. Constitution
+584 Typography
+598 Homer
+604 Leo Tolstoy
