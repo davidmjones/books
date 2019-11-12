@@ -513,13 +513,13 @@
 613 Scepticism
 614 Poetry
 615 Orthodox Christianity
+616 Aesthetics
+617 Dynasty
+618 Psychopathy
 
 ??? British Cinema
-??? Aesthetics
-??? Dynasty
-??? Psychopathy
 ??? Philosophy of Biology
 ??? Tides
 ??? Energy Systems
-??? Topology
+622 Topology
 ??? Superstition

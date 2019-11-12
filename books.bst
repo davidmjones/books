@@ -36,6 +36,7 @@ ENTRY
     imprint
     institution
     isbn
+    sbn
     journal
     key
     month
@@ -699,7 +700,11 @@ FUNCTION {do.book}
   if$
   new.block
   isbn empty$
-    { "" }
+    { sbn empty$
+        { "" }
+        { "SBN " sbn * }
+       if$
+    }
     { isbn }
   if$
   duplicate$
