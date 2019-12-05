@@ -227,7 +227,6 @@
 290 Modern France
 291 Reality
 292 The Computer
-293 The Animal Kingdom
 294 Colonial Latin American Literature
 296 The Aztecs
 297 The Cultural Revolution
@@ -243,7 +242,6 @@
 309 Engineering
 310 Probability
 311 Rivers
-312 Plants
 313 Anaesthesia
 314 The Mongols
 316 Objectivity
@@ -364,7 +362,6 @@
 451 Sound
 452 Epicureanism
 454 The Body
-455 Fungi
 456 The History of Chemistry
 457 Environmental Politics
 458 Modern Drama

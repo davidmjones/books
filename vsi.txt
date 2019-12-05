@@ -62,9 +62,11 @@
 281 Dictionaries
 286 Ancient Greece
 287 Angels
+293 The Animal Kingdom
 295 Sleep
 302 Chinese Literature
 308 Russian History
+312 Plants
 315 The Devil
 320 Languages
 322 Stars
@@ -87,6 +89,7 @@
 445 Philosophy in the Islamic World
 450 Moons
 453 Black Holes
+455 Fungi
 470 Astrophysics
 477 Savannas
 505 Behavioural Economics
