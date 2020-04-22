@@ -1,3 +1,5 @@
+## https://en.wikipedia.org/wiki/Very_Short_Introductions#List_of_books_in_the_series
+
 006 Psychology
 008 Politics
 009 Theology
@@ -510,10 +512,18 @@
 616 Aesthetics
 617 Dynasty
 618 Psychopathy
+619 Philosophy of Biology
+620 Energy Systems
+621 Tides
+622 Topology
+623 Superstition
+624 Country Music
+625 Korea
+626 Trigonometry
+627 Niels Bohr
+628 Albert Camus
+629 Federalism
+630 Aerial Warfare
+631 Renewable Energy
 
 ??? British Cinema
-??? Philosophy of Biology
-??? Tides
-??? Energy Systems
-622 Topology
-??? Superstition
