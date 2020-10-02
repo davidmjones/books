@@ -15,6 +15,7 @@
 026 Ancient Philosophy
 027 Socrates
 032 Aristotle
+044 Galileo
 051 Cosmology
 054 The French Revolution
 060 Shakespeare
@@ -35,6 +36,7 @@
 150 The Roman Empire
 155 Fundamentalism
 156 Economics
+158 Newton
 167 Classical Mythology
 173 Game Theory
 177 The Quakers

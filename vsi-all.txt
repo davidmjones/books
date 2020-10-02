@@ -26,7 +26,6 @@
 041 Buddha
 042 Paul
 043 Continental Philosophy
-044 Galileo
 045 Freud
 046 Wittgenstein
 047 Indian Philosophy
@@ -121,7 +120,6 @@
 153 Existentialism
 154 The First World War
 157 International Migration
-158 Newton
 159 Chaos
 160 African History
 161 Racism
