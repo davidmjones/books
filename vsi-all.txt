@@ -390,7 +390,6 @@
 484 Public Administration
 485 Molecular Biology
 486 Blood
-487 Copernicus
 488 Military Justice
 489 Cognitive Neuroscience
 490 Leibniz

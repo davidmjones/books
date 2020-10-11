@@ -95,6 +95,7 @@
 455 Fungi
 470 Astrophysics
 477 Savannas
+487 Copernicus
 505 Behavioural Economics
 512 Gravity
 518 The Atmosphere
