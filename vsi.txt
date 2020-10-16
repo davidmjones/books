@@ -108,3 +108,5 @@
 598 Homer
 604 Leo Tolstoy
 608 Synaesthesia
+623 Superstition
+638 The Sun

@@ -513,7 +513,6 @@
 620 Energy Systems
 621 Tides
 622 Topology
-623 Superstition
 624 Country Music
 625 Korea
 626 Trigonometry
@@ -528,7 +527,6 @@
 635 Reconstruction
 636 Number Theory
 637 Smell
-638 The Sun
 639 Emile Zola
 640 Fire
 641 ???
