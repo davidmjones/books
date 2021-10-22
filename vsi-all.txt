@@ -142,7 +142,6 @@
 184 Religion in America
 185 Geography
 186 The Meaning of Life
-187 Sexuality
 188 Nelson Mandela
 189 Science and Religion
 190 Relativity
@@ -571,39 +570,37 @@
 681 Blasphemy
 682 Jewish Literature
 
-Adorno
-American Intellectual History
-American Poetry
-Arbitration
-British Cinema
-Cognitive Behavioural Therapy
-Elizabeth Bishop
-Evangelicalism
-Fluid Mechanics
-French Cinema
-Geometry
-Human Resource Management
-Insects
-Invasive Species
-James Joyce
-Jane Austen
-Japanese Literature
-John Stuart Mill
-Mary Shelley
-Media Law
-Pakistan
-Philosophy of Mind
-Planetary Systems
-Polygamy
-Social and Cultural Anthropology
-The American Judicial System
-The Arctic
-The Common Law
-The History of Political Thought
-The Short Story
-The Spartans
-The Virgin Mary
-The Virtues
-Time
-Travel Writing
-Violence
+Time            (23 Sep 2021)
+James Joyce     (28 Oct 2021)
+The Virgin Mary (25 Nov 2021)
+Pakistan        (25 Nov 2021)
+The Arctic      (25 Nov 2021)
+The History of Political Thought (25 Nov 2021)
+American Poetry (25 Nov 2021)
+The Short Story (9 Dec 2021)
+Planetary Systems   (9 Dec 2021)
+Philosophy of Mind  (9 Dec 2021)
+American Intellectual History (9 Dec 2021)
+Cognitive Behavioural Therapy (Jan 2022)
+Geometry            (Jan 2022)
+Jane Austen         (Jan 2022)
+John Stuart Mill    (2022)
+Human Resource Management   (2022)
+Polygamy            (2022)
+Evangelicalism      (2022)
+The American Judicial System    (2022)
+Violence            (2022)
+Elizabeth Bishop    (2022)
+Mary Shelley        (2022)
+Fluid Mechanics     (2022)
+The Spartans        (2022)
+Adorno              (2022)
+Japanese Literature (2022)
+Insects             (2022)
+British Cinema      (2022)
+Social and Cultural Anthropology    (2022)
+Invasive Species    (2022)
+The Common Law      (2022)
+Travel Writing      (2022)
+French Cinema       (2022)
+Media Law           (2025)
