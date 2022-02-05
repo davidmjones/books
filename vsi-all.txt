@@ -99,7 +99,6 @@
 128 Dinosaurs
 129 Renaissance Art
 130 Buddhist Ethics
-132 Sikhism
 133 The History of Time
 134 Nationalism
 135 The World Trade Organization
