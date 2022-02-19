@@ -57,6 +57,7 @@
 220 Islamic History
 226 The Laws of Thermodynamics
 229 The New Testament
+248 Keynes
 252 Martin Luther
 254 Planets
 258 Late Antiquity
@@ -106,6 +107,7 @@
 550 Fairy Tale
 558 Anthropocene
 566 The U.S. Constitution
+582 Adam Smith
 584 Typography
 598 Homer
 604 Leo Tolstoy

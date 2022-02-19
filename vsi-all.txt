@@ -189,7 +189,6 @@
 245 Romanticism
 246 Utopianism
 247 The Blues
-248 Keynes
 249 English Literature
 250 Agnosticism
 251 Aristocracy
@@ -474,7 +473,6 @@
 579 The Psychology of Music
 580 Saints
 581 African Politics
-582 Adam Smith
 583 Glaciation
 585 Environmental Ethics
 586 Napoleon
