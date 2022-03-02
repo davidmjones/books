@@ -11,7 +11,6 @@
 023 Nineteenth-Century Britain
 024 Twentieth-Century Britain
 025 Heidegger
-028 Marx
 029 Logic
 030 Descartes
 031 Machiavelli
