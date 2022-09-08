@@ -31,8 +31,10 @@
 113 Hieroglyphs
 119 Christianity
 121 Consciousness
+128* Dinosaurs
 131 Tragedy
 132 Sikhism
+138* Fossils
 143 The Dead Sea Scrolls
 149 Anglicanism
 150 The Roman Empire
@@ -109,6 +111,7 @@
 550 Fairy Tale
 558 Anthropocene
 566 The U.S. Constitution
+574* Geology
 582 Adam Smith
 583 Glaciation
 584 Typography
@@ -117,4 +120,7 @@
 608 Synaesthesia
 623 Superstition
 638 The Sun
+656 The Maya
 658 Montaigne
+675 Samurai
+706 The Spartans
