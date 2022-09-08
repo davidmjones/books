@@ -1,18 +1,19 @@
-L = latex#2e
+L = pdflatex
+E = pdf
 
-all: list cd new probation dvds book
+all: list cd new probation dvds book vsi
 
-new: new.dvi
+new: new.$(E)
 
-probation: probation.tex probation.dvi
+probation: probation.tex probation.$(E)
 
-vsi: vsi.tex vsi.dvi
+vsi: vsi.tex vsi.$(E) vsi2.pdf
 
-book: books.dvi
+book: books.$(E)
 
-cd: cd.dvi
+cd: cd.$(E)
 
-dvds: dvds.dvi
+dvds: dvds.$(E)
 
 b: book
 
@@ -20,29 +21,15 @@ c: cd
 
 g: list
 
-list: wantlist.dvi
+list: wantlist.$(E)
 
-wantlist.dvi: wantlist.tex
+wantlist.$(E): wantlist.tex
 	$(L) wantlist.tex
 
-dvds.dvi: dvds.tex
+dvds.$(E): dvds.tex
 	$(L) dvds.tex
 
-ps: cd.dvi books.dvi wantlist.dvi new.dvi probation.dvi
-	dvips cd.dvi -o
-	dvips wantlist.dvi -o
-	dvips books.dvi -o
-	dvips new.dvi -o
-	dvips probation.dvi -o
-
-print: ps
-	lpr -Pduplex cd.ps
-	lpr -Pduplex wantlist.ps
-	lpr -Pduplex books.ps
-	lpr -Pduplex new.ps
-	lpr -Pduplex probation.ps
-
-books.dvi: books.tex books.bbl books2.bbl books.sty
+books.$(E): books.tex books.bbl books2.bbl books.sty
 	- $(L) books
 	./cullrefs.prl books
 	- $(L) books
@@ -56,7 +43,7 @@ books2.bbl: books2.bib abbrevs.bib books.bst
 	$(L) books2.tex
 	bibtex books2
 
-new.dvi: new.tex new.bbl books.sty
+new.$(E): new.tex new.bbl books.sty
 	- $(L) new
 	$(L) new
 
@@ -64,7 +51,7 @@ new.bbl: new.bib abbrevs.bib books.bst
 	$(L) new.tex
 	bibtex new
 
-probation.dvi: probation.tex probation.bbl books.sty
+probation.$(E): probation.tex probation.bbl books.sty
 	- $(L) probation
 	$(L) probation
 
@@ -72,7 +59,7 @@ probation.bbl: books.bib books2.bib abbrevs.bib books.bst
 	$(L) probation.tex
 	bibtex probation
 
-vsi.dvi: vsi.tex vsi.bbl books.sty
+vsi.$(E): vsi.tex vsi.bbl books.sty
 	- $(L) vsi
 	$(L) vsi
 
@@ -80,7 +67,7 @@ vsi.bbl: books.bib books2.bib abbrevs.bib books.bst
 	$(L) vsi.tex
 	bibtex vsi
 
-cd.dvi: cd.tex cd.ltx 
+cd.$(E): cd.tex cd.ltx 
 	$(L) cd.tex
 
 cd.ltx: cd.db CD.pm
@@ -90,3 +77,11 @@ cd.ltx: cd.db CD.pm
 		else true; \
 	fi
 	./cd2ltx cd.db > cd.ltx
+
+vsi2.pdf: vsi.txt
+	enscript -2 vsi.txt -o vsi2.ps
+	distill vsi2.ps
+	-rm vsi2.ps
+
+install: books.pdf vsi2.pdf
+	install -m 0444 -t /var/www/html/docs books.pdf vsi2.pdf
