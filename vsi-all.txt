@@ -556,19 +556,16 @@
 678 Human Physiology
 679 Competition and Antitrust Law
 680 Habeas Corpus
-681 Blasphemy
 682 Jewish Literature
 683 American Intellectual History (9 Dec 2021)
 684 Time            (23 Sep 2021)
 685 James Joyce     (28 Oct 2021)
 686 The Virgin Mary (25 Nov 2021)
-687 The Arctic      (25 Nov 2021)
 688 The Short Story (9 Dec 2021)
 689 Pakistan        (25 Nov 2021)
 690 American Poetry (25 Nov 2021)
 691 Philosophy of Mind  (9 Dec 2021)
 692 The History of Political Thought (25 Nov 2021)
-693 Planetary Systems   (9 Dec 2021)
 694 Jane Austen         (Jan 2022)
 695 Geometry            (Jan 2022)
 696 John Stuart Mill    (2022)
