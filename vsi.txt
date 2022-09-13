@@ -31,7 +31,7 @@
 113 Hieroglyphs
 119 Christianity
 121 Consciousness
-128* Dinosaurs
+128 Dinosaurs
 131 Tragedy
 132 Sikhism
 138* Fossils
