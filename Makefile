@@ -1,9 +1,10 @@
-L = pdflatex
+P = pdflatex
+D = latex
 E = pdf
 
 all: list cd new probation dvds book vsi
 
-new: new.$(E)
+new: new.dvi
 
 probation: probation.tex probation.$(E)
 
@@ -24,51 +25,51 @@ g: list
 list: wantlist.$(E)
 
 wantlist.$(E): wantlist.tex
-	$(L) wantlist.tex
+	$(P) wantlist.tex
 
 dvds.$(E): dvds.tex
-	$(L) dvds.tex
+	$(P) dvds.tex
 
 books.$(E): books.tex books.bbl books2.bbl books.sty
-	- $(L) books
+	- $(P) books
 	./cullrefs.prl books
-	- $(L) books
-	- $(L) books
+	- $(P) books
+	- $(P) books
 
 books.bbl: books.bib abbrevs.bib books.bst
-	$(L) books.tex
+	$(P) books.tex
 	bibtex books
 
 books2.bbl: books2.bib abbrevs.bib books.bst
-	$(L) books2.tex
+	$(P) books2.tex
 	bibtex books2
 
-new.$(E): new.tex new.bbl books.sty
-	- $(L) new
-	$(L) new
+new.dvi: new.tex new.bbl books.sty
+	- $(D) new
+	$(D) new
 
 new.bbl: new.bib abbrevs.bib books.bst
-	$(L) new.tex
+	$(P) new.tex
 	bibtex new
 
 probation.$(E): probation.tex probation.bbl books.sty
-	- $(L) probation
-	$(L) probation
+	- $(P) probation
+	$(P) probation
 
 probation.bbl: books.bib books2.bib abbrevs.bib books.bst
-	$(L) probation.tex
+	$(P) probation.tex
 	bibtex probation
 
 vsi.$(E): vsi.tex vsi.bbl books.sty
-	- $(L) vsi
-	$(L) vsi
+	- $(P) vsi
+	$(P) vsi
 
 vsi.bbl: books.bib books2.bib abbrevs.bib books.bst
-	$(L) vsi.tex
+	$(P) vsi.tex
 	bibtex vsi
 
 cd.$(E): cd.tex cd.ltx 
-	$(L) cd.tex
+	$(P) cd.tex
 
 cd.ltx: cd.db CD.pm
 ## There has *got* to be a better way to do this
