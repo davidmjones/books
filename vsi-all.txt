@@ -531,7 +531,6 @@
 650 George Bernard Shaw
 651 Philosophical Method
 652 Soft Matter
-653 Ovid
 654 Modern Brazil
 655 City Planning
 657 Americn Military History
@@ -579,7 +578,6 @@
 704 Theodor W. Adorno (2022)
 705 Ludwig Van Beethoven
 707 Fluid Mechanics     (2022)
-708 Insects             (2022)
 709 Evangelicalism      (2022)
 710 The American Judicial System    (2022)
 711 Japanese Literature (2022)
