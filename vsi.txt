@@ -35,7 +35,7 @@
 128 Dinosaurs
 131 Tragedy
 132 Sikhism
-138* Fossils
+138 Fossils
 143 The Dead Sea Scrolls
 149 Anglicanism
 150 The Roman Empire
