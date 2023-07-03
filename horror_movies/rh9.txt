@@ -161,13 +161,15 @@
 161 - Funny Games (1997)
 162 - Häxan (1922)
 163 - Rabid (1977)
+164 - V: The Original Miniseries (1983)
+165 - Them! (1954)
 
 ===========================================================================
 
 P001 - The Conjuring (2013)
 P002 - Candyman (1992)
 P003 - Train to Busan (2016)
-P004 - Ready or NOt (2019)
+P004 - Ready or Not (2019)
 P005 - Eraserhead (1978)
 P006 - The Wicker Man (1973)
 P007 - [REC] (2007)
