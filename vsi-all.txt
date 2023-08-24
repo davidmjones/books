@@ -575,16 +575,42 @@
 703 Cognitive Behavioural Therapy (Jan 2022)
 704 Theodor W. Adorno (2022)
 705 Ludwig Van Beethoven
-707 Fluid Mechanics     (2022)
-709 Evangelicalism      (2022)
-710 The American Judicial System    (2022)
-711 Japanese Literature (2022)
-712 British Cinema      (2022)
-713 Poststructuralism, 2ed
-714 Invasive Species    (2022)
-715 The Common Law      (2022)
-716 Travel Writing      (2022)
-717 French Cinema       (2022)
-718 Media Law           (2025)
+706 The Spartans
+707 Evangelicalism      (2022)
+708 Fluid Mechanics     (2022)
+709 Insects             (2022)
+710 Music and Technology
+711 Negotiation
+712 Evil
+713 The American Judicial System
+714 The History of Computing
+715 Ivan Pavlov
+716 World Mythology
+717 Hannah Arendt
+718 Gödel's Theorem
+719 Microbiomes
+720 British Cinema
+721 Anselm
+722 Condensed Matter Physics
+723 Nanotechnology
+724 Addiction
+725 Vatican II
+726 Suburbs
+727 The Jury
+728 Japanese Literature
+729 African American History
+730 The Civil Rights Movement
+731 Ancient Greek and Roman Science
+732 Pseudoscience
+733 Bohemians
+734 Mathematical Analysis
+735 The History of Emotions
+736 Ibn Sīnā (Avicenna)
+737 Invasive Species
+738 Biodiversity Conservation
 
-Social and Cultural Anthropology(, 2ed?) (2022)
+The Common Law  (2024)
+Travel Writing  (2024)
+French Cinema   (2023)
+Media Law       (2025)
+
