@@ -184,8 +184,9 @@
 184 - Aenigma (1987)
 185 - Pet Sematary (1989)
 186 - Valerie and Her Week of Wonders (1970)
-187 - Invisible Man
-188 - 
+187 - The Invisible Man (2020)
+188 - Night of the Demons (1988)
+189 - 
 
 ===========================================================================
 
@@ -224,4 +225,5 @@ P032 - The Menu (2022)
 P033 - Ghost Ship
 P034 - Picnic at Hanging Rock (1975)
 P035 - Let the Right One In (2008)
-P036 - 
+P036 - Session 9 (2001)
+P037 - 
