@@ -186,7 +186,8 @@
 186 - Valerie and Her Week of Wonders (1970)
 187 - The Invisible Man (2020)
 188 - Night of the Demons (1988)
-189 - 
+189 - The Masque of the Red Death (1964)
+190 - 
 
 ===========================================================================
 
@@ -226,4 +227,5 @@ P033 - Ghost Ship
 P034 - Picnic at Hanging Rock (1975)
 P035 - Let the Right One In (2008)
 P036 - Session 9 (2001)
-P037 - 
+P037 - Anna and the Apocalypse (2017)
+P038 - 
