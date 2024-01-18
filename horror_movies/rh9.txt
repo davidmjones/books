@@ -186,12 +186,18 @@
 186 - Valerie and Her Week of Wonders (1970)
 187 - The Invisible Man (2020)
 188 - Night of the Demons (1988)
-189 - The Masque of the Red Death (1964)
-190 - The Island of Dr. Moreau (1996)
-191 - Titane (2021)
-192 - Serial Mom (1994)
-193 - Santa Sangre (1989)
-194 - 
+189 - Carrie (1976)
+190 - The Masque of the Red Death (1964)
+191 - The Island of Dr. Moreau (1996)
+192 - Titane (2021)
+
+2024
+
+193 - Serial Mom (1994)
+194 - Santa Sangre (1989)
+195 - Dark Waters (1993)
+196 - From Dusk Till Dawn (1996)
+197 - 
 
 ===========================================================================
 
@@ -232,4 +238,5 @@ P034 - Picnic at Hanging Rock (1975)
 P035 - Let the Right One In (2008)
 P036 - Session 9 (2001)
 P037 - Anna and the Apocalypse (2017)
-P038 - 
+P038 - Nighmare on Elm Street 3
+P039 - 
