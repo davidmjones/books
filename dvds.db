@@ -4090,11 +4090,6 @@ $F BR
 %F UHD+BR
 %D 19 Sep 2017
 
-%T Iron Monkey
-%C US release
-%F DVD
-%D 13 Oct 2017
-
 %T Spider-Man Homecoming
 %F UHD+BR
 %D 18 Oct 2017
@@ -4503,3 +4498,9 @@ $F 4K+BR
 %P Shout Factory
 %N SF~17549
 %D 13 Jan 2024
+
+%T Iron Monkey
+%F BR
+%P Shout Factory
+%N SF~23476
+%D 2 Feb 2024
