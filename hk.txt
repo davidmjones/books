@@ -1,17 +1,17 @@
-https://www.amazon.com/Shawscope-One-8-Disc-Limited-Blu-ray/dp/B0997LX85L
-
-    - King Boxer (*)
-    - The Boxer from Shantung
-    - Five Shaolin Masters (*)
-    - Shaolin Temple
-    - Mighty Peking Man
-    - Challenge of the Masters
-    - Executioners from Shaolin (*)
-    - Chinatown
-    - The Five Venoms
-    - Crippled Avengers
-    - Heroes of the East (*)
-    - Dirty Ho
+% https://www.amazon.com/Shawscope-One-8-Disc-Limited-Blu-ray/dp/B0997LX85L
+% 
+%     - King Boxer (*)
+%     - The Boxer from Shantung
+%     - Five Shaolin Masters (*)
+%     - Shaolin Temple
+%     - Mighty Peking Man
+%     - Challenge of the Masters
+%     - Executioners from Shaolin (*)
+%     - Chinatown Kid
+%     - The Five Venoms
+%     - Crippled Avengers
+%     - Heroes of the East (*)
+%     - Dirty Ho
 
 % https://www.amazon.com/Shawscope-Two-10-Disc-Limited-Blu-ray/dp/B0B99N69D6
 % 
@@ -75,20 +75,20 @@ https://www.amazon.com/Shawscope-One-8-Disc-Limited-Blu-ray/dp/B0997LX85L
 %     - Shaolin Abbot
 %     - Shaolin Rescuers
 
-https://www.amazon.com/Shaw-Brothers-Classics-Four-Blu-ray/dp/B0CJBKLF5H
-
-    - The Rebel Intruders
-    - Two Champions of Shaolin
-    - Legend of the Fox
-    - Black Lizard
-    - House of Traps
-    - Masked Avengers
-    - The Sword Stained with Royal Blood
-    - Five Element Ninjas (*)
-    - Shaolin Prince
-    - Shaolin Intruders
-    - Holy Flame of the Martial World
-    - Opium and the Kung-Fu Master
+% https://www.amazon.com/Shaw-Brothers-Classics-Four-Blu-ray/dp/B0CJBKLF5H
+% 
+%     - The Rebel Intruders
+%     - Two Champions of Shaolin
+%     - Legend of the Fox
+%     - Black Lizard
+%     - House of Traps
+%     - Masked Avengers
+%     - The Sword Stained with Royal Blood
+%     - Five Element Ninjas (*)
+%     - Shaolin Prince
+%     - Shaolin Intruders
+%     - Holy Flame of the Martial World
+%     - Opium and the Kung-Fu Master
 
 ===========================================================================
 
