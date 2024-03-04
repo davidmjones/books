@@ -199,7 +199,11 @@
 196 - From Dusk Till Dawn (1996)
 197 - Cloverfield (2008)
 198 - Pearl (2022)
-199 - 
+199 - Terrified (2018)
+200 - Freaks (1932)
+201 - Duel (1971)
+202 - Pumpkinhead (1988)
+203 - 
 
 ===========================================================================
 
@@ -241,4 +245,5 @@ P035 - Let the Right One In (2008)
 P036 - Session 9 (2001)
 P037 - Anna and the Apocalypse (2017)
 P038 - Nighmare on Elm Street 3
-P039 - 
+P039 - Teeth (2008) [Feb 24 @3pm]
+P040 - 
