@@ -212,7 +212,10 @@
 209 - You're Next (2013)
 210 - Cocaine Bear (2023)
 211 - Invasion of the Body Snatchers (1978)
-212 - 
+212 - Under the Shadow (2016)
+213 - The Howling II: Your Sister Is a Werewolf (1985)
+214 - The Living Skeleton (1968)
+215 - 
 
 ===========================================================================
 
@@ -256,4 +259,5 @@ P037 - Anna and the Apocalypse (2017)
 P038 - Nighmare on Elm Street 3
 P039 - Teeth (2008) [Feb 24 @3pm]
 P040 - The Wailing (2016)
-P041 - 
+P041 - Mad God (2022)
+P042 - 
