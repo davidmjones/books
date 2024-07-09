@@ -216,7 +216,13 @@
 213 - The Howling II: Your Sister Is a Werewolf (1985)
 214 - The Living Skeleton (1968)
 215 - Hammer House of Horror (1980
-216 - 
+216 - Tremors (1990)
+217 - The Last Man on Earth (1964)
+218 - The Lost Boys (1987)
+219 - Hellbound: Hellraiser II (1988)
+220 - Blacker than the Night (1975)
+221 - Society (1989)
+222 - 
 
 ===========================================================================
 
@@ -259,6 +265,8 @@ P036 - Session 9 (2001)
 P037 - Anna and the Apocalypse (2017)
 P038 - Nighmare on Elm Street 3
 P039 - Teeth (2008) [Feb 24 @3pm]
-P040 - The Wailing (2016)
-P041 - Mad God (2022)
-P042 - 
+P040 - His House (2020)
+P041 - The Wailing (2016)
+P042 - Mad God (2022)
+P043 - Nope (2022)
+P044 - 
