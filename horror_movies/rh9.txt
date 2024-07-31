@@ -222,7 +222,9 @@
 219 - Hellbound: Hellraiser II (1988)
 220 - Blacker than the Night (1975)
 221 - Society (1989)
-222 - 
+222 - Mandy (2018)
+223 - The Exorcist (1973)
+224 - 
 
 ===========================================================================
 
@@ -269,4 +271,5 @@ P040 - His House (2020)
 P041 - The Wailing (2016)
 P042 - Mad God (2022)
 P043 - Nope (2022)
-P044 - 
+P044 - Midsommar (2019)
+P045 - 
