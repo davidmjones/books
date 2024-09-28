@@ -231,7 +231,9 @@
 228 - The Haunting (1963)
 229 - X-Files: "Home" and "Postmodern Prometheus"
 230 - The VVitch (2016)
-231 - 
+231 - Phantasm (1979)
+232 - The Vanishing (1988)
+232 - 
 
 ===========================================================================
 
@@ -280,4 +282,5 @@ P042 - Mad God (2022)
 P043 - Nope (2022)
 P044 - Midsommar (2019)
 P045 - Creep (2014)
-P046 - 
+P046 - Silent Hill (2006)
+P047 - 
