@@ -233,7 +233,11 @@
 230 - The VVitch (2016)
 231 - Phantasm (1979)
 232 - The Vanishing (1988)
-232 - 
+232 - Burst City (1982)
+233 - The Sixth Sense (1999)
+234 - The Exorcist III (1990)
+235 - Seconds (1966)
+236 - 
 
 ===========================================================================
 
@@ -283,4 +287,5 @@ P043 - Nope (2022)
 P044 - Midsommar (2019)
 P045 - Creep (2014)
 P046 - Silent Hill (2006)
-P047 - 
+P047 - Hell House LLC (2015)
+P048 - 
