@@ -229,18 +229,25 @@
 226 - Terrifier 2 (2022)
 227 - PussyCake (2021)
 228 - The Haunting (1963)
-229 - X-Files: "Home" and "Postmodern Prometheus"
-230 - The VVitch (2016)
-231 - Phantasm (1979)
-232 - The Vanishing (1988)
-232 - Burst City (1982)
-233 - The Sixth Sense (1999)
-234 - The Exorcist III (1990)
-235 - Seconds (1966)
-236 - Deep Red (1975)
-237 - Piranha 3D (2010)
-238 - Altered States (1980)
-239 - 
+229 - Troll Hunger (2010)
+230 - X-Files: "Home" and "Postmodern Prometheus"
+231 - The VVitch (2016)
+232 - Phantasm (1979)
+233 - The Vanishing (1988)
+234 - Burst City (1982)
+235 - The Sixth Sense (1999)
+236 - The Exorcist III (1990)
+237 - Seconds (1966)
+238 - Too Many Cooks (2014) and other horror shorts
+239 - Deep Red (1975)
+240 - Piranha 3D (2010)
+241 - Altered States (1980)
+242 - Cemetary Man (1994)
+243 - The Evil Dead (1981)
+244 - The Devil's Backbone (2001)
+245 - Possibly in Michigan (1983) and other horror shorts
+246 - Dracula (1931)
+247 - 
 
 ===========================================================================
 
@@ -291,4 +298,6 @@ P044 - Midsommar (2019)
 P045 - Creep (2014)
 P046 - Silent Hill (2006)
 P047 - Hell House LLC (2015)
-P048 - 
+P048 - Gonjiam: Haunted Asylum (2018)
+P049 - Silent Night, Deadly Night (1984)
+P050 - 
