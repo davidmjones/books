@@ -1,5 +1,5 @@
 % https://www.amazon.com/Shawscope-One-8-Disc-Limited-Blu-ray/dp/B0997LX85L
-% 
+%
 %     - King Boxer (*)
 %     - The Boxer from Shantung
 %     - Five Shaolin Masters (*)
@@ -14,7 +14,7 @@
 %     - Dirty Ho
 
 % https://www.amazon.com/Shawscope-Two-10-Disc-Limited-Blu-ray/dp/B0B99N69D6
-% 
+%
 %     - The 36th Chamber of Shaolin (*)
 %     - Return to the 36th Chamber (*)
 %     - Disciples of the 36th Chamber (*)
@@ -30,10 +30,27 @@
 %     - Martial Arts of Shaolin
 %     - The Bare-Footed Kid
 
+% https://www.amazon.com/Shawscope-Three-10-Disc-Limited-Blu-ray/dp/B0D6NZ9D5P/
+%
+%     - One-Armed Swordsman
+%     - Return of the One-Armed Swordsman
+%     - The New One-Armed Swordsman
+%     - The Lady Hermit
+%     - Intimate Confessions of a Chinese Courtesan
+%     - The 14 Amazons
+%     - The Magic Blade
+%     - Clans of Intrigue
+%     - Jade Tiger
+%     - The Sentimental Swordsman
+%     - The Avenging Eagle
+%     - Killer Constable
+%     - Buddha's Palm
+%     - Bastard Swordsman
+
 ===========================================================================
 
 % https://www.amazon.com/Shaw-Brothers-Classics-One-Blu-ray/dp/B0BZCH72CR
-% 
+%
 %     - The Assassin
 %     - The Thundering Sword
 %     - The Golden Swallow
@@ -45,9 +62,9 @@
 %     - Dragon Swamp
 %     - The Flying Dagger
 %     - The Golden Sword
-% 
+%
 % https://www.amazon.com/Shaw-Brothers-Classics-Two-Blu-ray/dp/B0C64PMSQD
-% 
+%
 %     - Lady of Steel
 %     - Brothers Five (*)
 %     - The Crimson Charm
@@ -60,9 +77,9 @@
 %     - Heroes Two
 %     - The Flying Guillotine (*)
 %     - The Dragon Missle
-% 
+%
 % https://www.amazon.com/Shaw-Brothers-Classics-Vol-Blu-ray/dp/B0CC472F42
-% 
+%
 %     - Killer Clans
 %     - The Shaolin Avengers
 %     - The Web of Death
@@ -76,7 +93,7 @@
 %     - Shaolin Rescuers
 
 % https://www.amazon.com/Shaw-Brothers-Classics-Four-Blu-ray/dp/B0CJBKLF5H
-% 
+%
 %     - The Rebel Intruders
 %     - Two Champions of Shaolin
 %     - Legend of the Fox
@@ -90,21 +107,35 @@
 %     - Holy Flame of the Martial World
 %     - Opium and the Kung-Fu Master
 
+% https://www.amazon.com/Shaw-Brothers-Classics-Five-Blu-ray/dp/B0DK269K2S
+%
+%     - The Silent Swordsman
+%     - Rape of the Sword
+%     - The Fastest Sword
+%     - Twin Blades of Doom
+%     - Twelve Deadly Coins
+%     - Vengeance Is a Golden Blade
+%     - A Taste of Cold Steel
+%     - The Iron Buddha
+%     - The Jade Faced Assassin
+%     - Mission Impossible
+%     - Six Assassins
+
 ===========================================================================
 
-The Jackie Chan Collection, Volume 1 (1976-1982)
-https://www.amazon.com/gp/product/B0BK3BF3QW
-
-    - The Killer Meteors
-    - Shaolin Wooden Men
-    - To Kill with Intrigue
-    - Snake and Crane Arts of Shaolin
-    - Dragon Fist
-    - Battle Creek Brawl
-    - Dragon Lord
+% The Jackie Chan Collection, Volume 1 (1976-1982)
+% https://www.amazon.com/gp/product/B0BK3BF3QW
+% 
+%     - The Killer Meteors
+%     - Shaolin Wooden Men
+%     - To Kill with Intrigue
+%     - Snake and Crane Arts of Shaolin
+%     - Dragon Fist
+%     - Battle Creek Brawl
+%     - Dragon Lord
 
 % The Jackie Chan Collection, Volume 2 (1983-1993)
-% 
+%
 %     - Winners and Sinners (1983)
 %     - Wheels on Meals (1984)
 %     - The Protector (1985) (*)
@@ -113,5 +144,3 @@ https://www.amazon.com/gp/product/B0BK3BF3QW
 %     - Armour of God II: Operation Condor (1991)
 %     - Crime Story (1993) (*)
 %     - City Hunter (1993) (*)
-
-

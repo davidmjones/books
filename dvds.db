@@ -3,11 +3,6 @@
 %P World Video
 %N WVDVD 271
 
-%T City Hunter
-%F DVD
-%P Media Asia
-%N MS/DVD/062/99
-
 %T Galaxy Quest
 %F DVD
 
@@ -60,11 +55,6 @@
 %d 2
 %F DVD
 %P Facets Video
-
-%T Master, The
-%F DVD
-%P Universe Laser and Video
-%N 5096
 
 %T Sixth Sense, The: Collector's Edition
 %F DVD
@@ -779,24 +769,6 @@
 %P Celestial Pictures
 %R 3
 %Y 2003
-%D 17 September 2004
-
-%T One-Armed Swordsman
-%P Celestial Pictures
-%R 3
-%Y 2004
-%D 17 September 2004
-
-%T Return of the One-Armed Swordsman
-%P Celestial Pictures
-%R 3
-%Y 2004
-%D 17 September 2004
-
-%T New One-Armed Swordsman, The
-%P Celestial Pictures
-%R 3
-%Y 2004
 %D 17 September 2004
 
 %T Hero
@@ -1704,11 +1676,6 @@
 %F DVD
 %D 7 May 2010
 
-%T Magic Blade, The
-%P Eastern Masters
-%F DVD
-%D 7 May 2010
-
 %T Brothers Five
 %% TO BE CULLED (mabye)
 %P Sword Masters
@@ -2123,11 +2090,6 @@
 %d 3
 %D 31 December 2010
 
-%T Rocky and Bullwinkle and Friends: The Complete Series 1959--1964
-%d 18
-%F DVD
-%D 19 January 2011
-
 %T 30 Rock: Season~4
 %d 3
 %D 28 January 2011
@@ -2136,10 +2098,6 @@
 %N 10365
 %F BR
 %D 9 Feb 2011
-
-%T Hitman
-%N DVD-636
-%D 11 Feb 2011
 
 %T Doctor Who: A Christmas Carol
 %I 0-7806-7088-4
@@ -4594,3 +4552,65 @@ $F 4K+BR
 %P Strand Releasing
 %F DVD
 %D 27 Nov 2024
+
+%T Golden Harvest Volume 1: Supernatural Shockers
+%P Shout! Studios
+%t Sex and Zen
+%t Erotic Ghost Story
+%t Erotic Ghost Story~II
+%t Erotic Ghost Story~III
+%t Doctor Vampire
+%t Robotrix
+%d 6
+%N SF 24878
+%D 28 Dec 2024
+
+%T Shawscope, Volume Three
+%t One-Armed Swordsman
+%t Return of the One-Armed Swordsman
+%t The New One-Armed Swordsman
+%t The Lady Hermit
+%t Intimate Confessions of a Chinese Courtesan
+%t The 14 Amazons
+%t The Magic Blade
+%t Clans of Intrigue
+%t Jade Tiger
+%t The Sentimental Swordsman
+%t The Avenging Eagle
+%t Killer Constable
+%t Buddha's Palm
+%t Bastard Swordsman
+%d 10
+%D 29 Dec 2024
+
+%T Golden Harvest Volume 2: Shining Stars
+%P Shout! Studios
+%t Beach of the War Gods
+%t When Taekwondo Strikes
+%t The Skyhawk
+%t Shaolin Boxers
+%t Slaughter in San Francisco
+%t Legacy of Rage
+%t The Master
+%t Hitman
+%d 8
+%N SF 24958
+%D 29 Dec 2024
+
+%T Innocents, The
+%P The Criterion Collection
+%F BR
+%N 727
+%D 30 Dec 2024
+
+%T The Jackie Chan Collection, Volume One (1976--1982)
+%t The Killer Meteors
+%t Shaolin Wooden Men
+%t To Kill with Intrigue
+%t Snake and Crane Arts of Shaolin
+%t Dragon Fist
+%t Battle Creek Brawl
+%t Dragon Lord
+%d 7
+%N SF 23377
+%D 30 Dec 2024
