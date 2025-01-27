@@ -750,13 +750,6 @@
 %T Jesus Christ Superstar
 %D 9 September 2004
 
-%T Hero
-%P Edko
-%Y 2002
-%R 3
-%d 2
-%D 17 September 2004
-
 %T Water Margin, The
 %% TO BE CULLED
 %P Celestial Pictures
@@ -2768,11 +2761,6 @@
 %d 2
 %D 31 July 2012
 
-%T Heartbreakers
-%I 0-7928-5071-8
-%F DVD
-%D 31 July 2012
-
 %T Justice League: Doom
 %I 0-7806-7306-9
 %F DVD
@@ -3424,10 +3412,6 @@ $F BR
 %F BR+DVD
 %D 17 December 2014
 
-%T Thor: The Dark World
-%F BR+BR3D
-%D 23 Dec 2014
-
 %T Harold and Kumar Go to White Castle
 %I 0-7806-8038-3
 %F BR
@@ -3599,10 +3583,6 @@ $F BR
 %F DVD
 %D 28 Sep 2015
 
-%T Avengers: Age of Ultron
-%F BR
-%D 4 Oct 2015
-
 %T The Legend of Korra, Book Three: Change
 %F BR
 %d 2
@@ -3634,27 +3614,7 @@ $F BR
 %F BR
 %D 27 Nov 2015
 
-%T Thor
-%F BR
-%D 27 Nov 2015
-
-%T X-Men: Days of Future Past: The Rogue Cut
-%F BR
-%D 1 Dec 2015
-
 %T Guardians of the Galaxy
-%F BR
-%D 1 Dec 2015
-
-%T Iron Man
-%F BR
-%D 1 Dec 2015
-
-%T Iron Man 2
-%F BR
-%D 1 Dec 2015
-
-%T Iron Man 3
 %F BR
 %D 1 Dec 2015
 
@@ -3834,10 +3794,6 @@ $F BR
 %d 4
 %D 6 Sep 2016
 
-%T Captain America: Civil War
-%F BR
-%D 13 Sep 2016
-
 %T Teen Wolf: Season~5, Part~2
 %F DVD
 %d 3
@@ -3933,10 +3889,6 @@ $F BR
 %F BR+DVD
 %D 23 May 2017
 
-%T Logan
-%F UHD+BR
-%D 23 May 2017
-
 %T Tampopo
 %F BR
 %D 30 May 2017
@@ -4016,10 +3968,6 @@ $F BR
 %F BR+DVD
 %D 30 Jan 2018
 
-%T American Assassin
-%F BR+DVD
-%D 30 Jan 2018
-
 %T Call Me by Your Name
 %F BR
 %D 14 Mar 2018
@@ -4027,10 +3975,6 @@ $F BR
 %T The Shape of Water
 %F BR+DVD
 %D 14 Mar 2018
-
-%T Thor: Ragnarok
-%F BR+DVD
-%D 2 Apr 2018
 
 %T Chasing the Dragon
 %F BR+DVD
@@ -4066,10 +4010,6 @@ $F BR
 %T Supernatural, Season~13
 %F BR
 %d 4
-%D 4 Sep 2018
-
-%T The Incredible Hulk
-%F BR
 %D 4 Sep 2018
 
 %T Avengers: Infinity War
@@ -4135,10 +4075,6 @@ $F BR
 %d 2
 %D 9 Jul 2019
 
-%T Captain Marvel
-%F BR
-%D 15 Jul 2019
-
 %T Arrow: The Complete Seventh Season
 %F BR
 %d 4
@@ -4148,10 +4084,6 @@ $F BR
 %F BR
 %d 4
 %D 10 Sep 2018
-
-%T X-Men: Dark Phoenix
-%F BR
-%D 17 Sep 2018
 
 %T Spider-Man: Far from Home
 $F 4K+BR
@@ -4605,3 +4537,20 @@ $F 4K+BR
 %T Kill Bill vol.~2
 %F 4K
 %D 24 Jan 2025
+
+%T Shaw Brothers Classics, Volume Five
+%P Shout! Studios
+%t The Silent Swordsman
+%t Rape of the Sword
+%t The Fastest Sword
+%t Twin Blades of Doom
+%t Twelve Deadly Coins
+%t Vengeance Is a Golden Blade
+%t A Taste of Cold Steel
+%t The Iron Buddha
+%t The Jade Faced Assassin
+%t Mission Impossible
+%t Six Assassins
+%d 11
+%N SF 24933
+%D 26 Jan 2025
