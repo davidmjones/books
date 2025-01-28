@@ -1,4 +1,4 @@
-P = pdflatex
+P = lualatex
 D = latex
 E = pdf
 
