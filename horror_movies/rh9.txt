@@ -247,7 +247,13 @@
 244 - The Devil's Backbone (2001)
 245 - Possibly in Michigan (1983) and other horror shorts
 246 - Dracula (1931)
-247 - 
+247 - Supernatural (2005)
+248 - Scanners (1981) w/Robin Virginie
+249 - Kwaidan (1965)
+250 - Prey (2016)
+251 - Contagion (2011)
+252 - Insidious (2011)
+253 - 
 
 ===========================================================================
 
@@ -300,4 +306,5 @@ P046 - Silent Hill (2006)
 P047 - Hell House LLC (2015)
 P048 - Gonjiam: Haunted Asylum (2018)
 P049 - Silent Night, Deadly Night (1984)
-P050 - 
+P050 - The Autopsy of Jane Doe
+P051 - 
