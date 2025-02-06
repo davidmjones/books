@@ -775,20 +775,6 @@
 %d 6
 %D 21 Oct 2004
 
-%T A Chinese Odyssey, Part~I: Pandora's Box \SE
-%P Mei Ah
-%R 0
-%P Mega Star
-%N MS/DVD/399/HK
-%D 30 October 2004
-
-%T A Chinese Odyssey, Part~II: Cinderella \SE
-%P Mei Ah
-%R 0
-%P Mega Star
-%N MS/DVD/400/HK
-%D 30 October 2004
-
 %T Looney Tunes Golden Collection, Volume Two
 %d 4
 %F DVD
@@ -4554,3 +4540,9 @@ $F 4K+BR
 %d 11
 %N SF 24933
 %D 26 Jan 2025
+
+%T A Chinese Odyssey, Parts~1\&2
+%P Shout!
+%N 25023
+%D 4 Feb 2025
+
