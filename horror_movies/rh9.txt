@@ -257,7 +257,12 @@
 254 - Don't Look Now (1973)
 255 - An American Werewolf in London (1981)
 256 - The Blob (1988)
-257 - 
+257 - American Psycho (2000)
+258 - Inferno (1980)
+259 - Baskin (2015)
+260 - The Return of the Living Dead (1985)
+261 - Bad Taste (1987)
+262 - 
 
 ===========================================================================
 
@@ -312,4 +317,6 @@ P048 - Gonjiam: Haunted Asylum (2018)
 P049 - Silent Night, Deadly Night (1984)
 P050 - The Autopsy of Jane Doe
 P051 - Night of the Comet (1984)
-P052 - 
+P052 - The Cell
+P053 - We're All Going to the World's Fair (2021)
+P054 - 
