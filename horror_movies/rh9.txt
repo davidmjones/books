@@ -260,9 +260,16 @@
 257 - American Psycho (2000)
 258 - Inferno (1980)
 259 - Baskin (2015)
-260 - The Return of the Living Dead (1985)
-261 - Bad Taste (1987)
-262 - 
+260 - Savageland (2015)
+261 - The Return of the Living Dead (1985)
+262 - Bad Taste (1987)
+263 - Leprechaun (1993)
+264 - In the Mouth of Madness (1995)
+265 - Black Mirror: 3.2 Play Test, 3.3 Shut Up and Dance, 4.5 Metalhead
+266 - The Birds (1963)
+267 - Diabolique (1955)
+268 - The Ring (2002)
+269 - 
 
 ===========================================================================
 
@@ -319,4 +326,5 @@ P050 - The Autopsy of Jane Doe
 P051 - Night of the Comet (1984)
 P052 - The Cell
 P053 - We're All Going to the World's Fair (2021)
-P054 - 
+P054 - MadS (2024)
+P055 - 
