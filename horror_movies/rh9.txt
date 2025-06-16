@@ -269,7 +269,17 @@
 266 - The Birds (1963)
 267 - Diabolique (1955)
 268 - The Ring (2002)
-269 - 
+269 - Wolf Creek (2005)
+270 - The Dead Zone (1983)
+271 - Sinners (2025)
+272 - Whistle and I'll Come to YOu (1968) and other horror shorts
+273 - The Blackcoat's Daughter (2017)
+274 - 
+275 - 
+276 - 
+277 - 
+278 - 
+279 - 
 
 ===========================================================================
 
@@ -327,4 +337,5 @@ P051 - Night of the Comet (1984)
 P052 - The Cell
 P053 - We're All Going to the World's Fair (2021)
 P054 - MadS (2024)
-P055 - 
+P055 - The Taking of Deborah Logan (2014)
+P056 - 
