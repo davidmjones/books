@@ -249,6 +249,9 @@
 246 - Dracula (1931)
 247 - Supernatural (2005)
 248 - Scanners (1981) w/Robin Virginie
+
+2025
+
 249 - Kwaidan (1965)
 250 - Prey (2016)
 251 - Contagion (2011)
@@ -277,9 +280,19 @@
 274 - History of the Occult (2020)
 275 - The Thing from Another World (1951)
 276 - Magic (1978)
-277 - 
-278 - 
-279 - 
+277 - The Substance (2024)
+278 - Matango (1963)
+279 - Intruder (1989)
+280 - Kuroneko (1968)
+281 - Fire in the Sky (1993)
+282 - Dr. Caligari (1989)
+283 - 
+284 - 
+285 - 
+286 - 
+287 - 
+288 - 
+289 - 
 
 ===========================================================================
 
@@ -338,4 +351,6 @@ P052 - The Cell
 P053 - We're All Going to the World's Fair (2021)
 P054 - MadS (2024)
 P055 - The Taking of Deborah Logan (2014)
-P056 - 
+P056 - Psycho Beach Party (2000)
+P057 - Dead Ringer (1988)
+P058 - 
