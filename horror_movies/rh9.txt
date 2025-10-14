@@ -286,13 +286,24 @@
 280 - Kuroneko (1968)
 281 - Fire in the Sky (1993)
 282 - Dr. Caligari (1989)
-283 - 
-284 - 
-285 - 
-286 - 
-287 - 
-288 - 
-289 - 
+283 - The Cabin in the Woods (2012)
+284 - Curse (Night) of the Demon (1957)
+285 - Beyond the Black Rainbow (2010)
+286 - Basket Case 2 (1990)
+287 - The Faculty (1998)
+288 - Saint Maud (2020)
+289 - Slumber Party Massacre 2 (1987)
+290 - Bram Stoker's Dracula (1992)
+291 - Tetsuo: The Iron Man (1989)
+292 - 
+293 - 
+294 - 
+295 - 
+296 - 
+297 - 
+298 - 
+299 - 
+300 - 
 
 ===========================================================================
 
@@ -353,4 +364,15 @@ P054 - MadS (2024)
 P055 - The Taking of Deborah Logan (2014)
 P056 - Psycho Beach Party (2000)
 P057 - Dead Ringer (1988)
-P058 - 
+P058 - In a Violent Nature (2024)
+P059 - Haunt (2019)
+P060 - 
+P061 - 
+P062 - 
+P063 - 
+P064 - 
+P065 - 
+P066 - 
+P067 - 
+P068 - 
+P069 - 
