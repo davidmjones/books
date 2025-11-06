@@ -295,9 +295,9 @@
 289 - Slumber Party Massacre 2 (1987)
 290 - Bram Stoker's Dracula (1992)
 291 - Tetsuo: The Iron Man (1989)
-292 - 
-293 - 
-294 - 
+292 - Medium (1985)
+293 - Jack Stauber's OPAL (2020) and other horror shorts
+294 - The Amityville Horror (1979)
 295 - 
 296 - 
 297 - 
@@ -366,7 +366,7 @@ P056 - Psycho Beach Party (2000)
 P057 - Dead Ringer (1988)
 P058 - In a Violent Nature (2024)
 P059 - Haunt (2019)
-P060 - 
+P060 - Thanksgiving (2023)
 P061 - 
 P062 - 
 P063 - 
