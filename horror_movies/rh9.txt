@@ -30,7 +30,7 @@
  30 - House of 1000 Corpses (2003)
  31 - Let's Scare Jessica to Death (1971)
  32 - The Shining (1980)
- 33 - Horrow Express (1972)
+ 33 - Horror Express (1972)
  34 - My Bloody Valentine (1981)
  35 - Tale of Tales (2015)
  36 - Jaws (1975)
@@ -299,9 +299,9 @@
 293 - Jack Stauber's OPAL (2020) and other horror shorts
 294 - The Amityville Horror (1979)
 295 - Tales from the Hood (1995)
-296 - 
-297 - 
-298 - 
+296 - Flesh for Frankenstein (1973)
+297 - Puppet Master III (1991)
+298 - The Mephisto Waltz (1971)
 299 - 
 300 - 
 
@@ -367,7 +367,7 @@ P057 - Dead Ringer (1988)
 P058 - In a Violent Nature (2024)
 P059 - Haunt (2019)
 P060 - Thanksgiving (2023)
-P061 - 
+P061 - May (2002)
 P062 - 
 P063 - 
 P064 - 
