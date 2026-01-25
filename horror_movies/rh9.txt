@@ -298,12 +298,22 @@
 292 - Medium (1985)
 293 - Jack Stauber's OPAL (2020) and other horror shorts
 294 - The Amityville Horror (1979)
-295 - Tales from the Hood (1995)
-296 - Flesh for Frankenstein (1973)
-297 - Puppet Master III (1991)
-298 - The Mephisto Waltz (1971)
-299 - 
-300 - 
+295 - Ghoulies (1985)
+296 - Tales from the Hood (1995)
+297 - Flesh for Frankenstein (1973)
+298 - Puppet Master III (1991)
+299 - The Mephisto Waltz (1971)
+300 - Speak No Evil (2022)
+301 - Night of the Bloody Apes (1969)
+302 - Alien (1979)
+303 - Opera (1987)
+304 - The Wolfman (1941)
+305 - The Swarm (1978)
+306 - The Walking Dead
+307 - 
+308 - 
+309 - 
+310 - 
 
 ===========================================================================
 
@@ -368,7 +378,7 @@ P058 - In a Violent Nature (2024)
 P059 - Haunt (2019)
 P060 - Thanksgiving (2023)
 P061 - May (2002)
-P062 - 
+P062 - The Ugly Stepsister (2025)
 P063 - 
 P064 - 
 P065 - 
