@@ -1,0 +1,974 @@
+\documentclass[twocolumn]{article}
+
+\usepackage{fullpage}
+
+{\catcode`\^^M=\active % these lines must end with %
+\gdef\C#1^^M{\par\bigskip\noindent\textbf{#1}\par\nobreak}%
+\gdef\T#1^^M{\par\emph{#1}\par}%
+}
+
+\begin{document}
+
+\begin{center}
+Classical Good CD Guide 1999 \\
+Suggested Basic Library
+\end{center}
+
+\frenchspacing
+
+\begin{obeylines}
+
+\C Albeniz
+\T  Iberia
+
+\C Allegri
+\T   Miserere
+
+\C Bach
+\T   Brandenburg Concertos
+\T   Cantata No. 78
+\T   Cantata No. 82
+\T   Cantata No. 140
+\T   Cantata No. 147
+\T   Goldberg Variations
+\T   Mass in B minor
+\T   St Matthew Passion
+\T   Toccata and Fugue in D minor \textup(organ\textup)
+\T   Violin Concertos
+
+\C Barber
+\T   Adagio for Strings
+
+\C Bart\'ok, B\'ela
+\T   Concerto for Orchestra
+\T   Piano Concerto No. 1
+\T   Piano Concerto No. 2
+\T   Piano Concerto No. 3
+\T  Violin Concerto No. 1
+\T   Violin Concerto No. 2
+
+\C Beethoven
+\T   Fidelio
+\T   Missa solemnis
+\T   Piano Concerto No. 1
+\T   Piano Concerto No. 2
+\T   Piano Concerto No. 3
+\T   Piano Concerto No. 4
+\T   Piano Concerto No. 5
+\T   Piano Sonata No. 8, ``Pathetique''
+\T   Piano Sonata No. 14, ``Moonlight''
+\T   Piano Sonata No. 21, ``Waldstein''
+\T   Piano Sonata No. 23, ``Appassionata''
+\T   Piano Trio No. 7, ``Archduke''
+\T   Symphonies Nos. 1--9
+\T   33 Variations on a Waltz by Diabelli
+\T   Violin Concerto
+\T   Violin Sonata No. 5
+\T   Violin Sonata No. 9
+
+\C Berg
+\T   Three Orchestral Pieces
+\T   Violin Concerto
+
+\C Berlioz
+\T   Grand messe des morts
+\T   Symphonie fantastique
+\T   Les nuits d'ete
+
+\C Bernstein
+\T   West Side Story
+
+\C Bizet
+\T  L'Arlesienne---Concert Suites Nos. 1 and 2
+\T  Carmen
+\T  Symphony in C major
+
+\C Borodin
+\T  Prince Igor---Polovtsian Dances
+
+\C Brahms
+\T  Clarinet Quintet
+\T  Ein deutsches Requiem
+\T  Hungarian Dances
+\T  Piano Concerto No. 1
+\T  Piano Concerto No. 2
+\T  Piano Quintet
+\T  Symphony No. 1
+\T  Symphony No. 2
+\T  Symphony No. 3
+\T  Symphony No. 4
+\T  Variations on a Theme by Haydn, ``St Antoni Chorale''
+\T  28 Variations on a Theme by Paganini
+\T  Violin Concerto
+
+\C Britten
+\T  Les illuminations
+\T  Peter Grimes---Four Sea Interludes
+\T  Serenade for Tenor, Horn and Strings
+\T  War Requiem
+\T  The Young Person's Guide to the Orchestra
+
+\C Bruch
+\T  Violin Concerto No. 1
+
+\C Bruckner
+\T  Symphony No. 3
+\T  Symphony No. 4
+\T  Symphony No. 5
+\T  Symphony No. 8
+\T  Symphony No. 9
+
+\C Byrd
+\T  Mass for four voices
+\T  Mass for five voices
+
+\C Canteloube 
+\T  Chants d'Auvergne
+
+\C Chabrier
+\T  Espana
+
+\C Chopin
+\T  Piano Concerto No. 1
+\T  Piano Concerto No. 2
+\T  Piano Sonata No. 2
+\T  Piano Sonata No. 3
+\T  Various Solo Piano Works
+
+\C Copland
+\T  Appalachian Spring
+\T  Rodeo---Four Dance Episodes
+
+\C Debussy
+\T  Images
+\T  La mer
+\T  Nocturnes
+\T  Piano Preludes
+\T  Prelude a l'apres-midi d'un faune
+\T  String Quartet
+
+\C Delibes
+\T  Copp\'elia
+
+\C Delius
+\T  Brigg Fair
+\T  In a summer garden
+\T  On hearing the first cuckoo in Spring
+\T  Sea Drift
+\T  A Village Romeo and Juliet---Walk to the Paradise Garden
+
+\C Dohnanyi
+\T  Variations on a Nursery Theme
+
+\C Donizetti
+\T  L'elisir d'amore
+\T  Lucia di Lammermoor
+
+\C Dowland
+\T  Various Solo Lute Works
+
+\C Dukas
+\T  Sorcerer's Apprentice
+
+\C Dvo\v{r}\'ak
+\T  Cello Concerto
+\T  Piano Quintet
+\T  Piano Trio No. 4, ``Dumky''
+\T  Serenade for Strings
+\T  Slavonic Dances
+\T  String Quartet No. 12, ``American''
+\T  Symphony No. 7
+\T  Symphony No. 8
+\T  Symphony No. 9, ``From the New World''
+
+\C Elgar
+\T  Cello Concerto
+\T  The Dream of Gerontius
+\T  Introduction and Allegro for Strings
+\T  Pomp and Circumstance Marches
+\T  Symphony No. 1
+\T  Symphony No. 2
+\T  Variations on an Original Theme, ``Enigma''
+\T  Violin Concerto
+
+\C Falla
+\T  Noches en los jardines de Espana
+\T  El sombrero de tres picos
+
+\C Faure
+\T  Requiem
+
+\C Franck
+\T  Symphonic Variations
+\T  Symphony in D minor
+
+\C Gershwin
+\T  An American in Paris
+\T  Piano Concerto
+\T  Porgy and Bess
+\T  Rhapsody in Blue
+
+\C Glazunov
+\T  Violin Concerto
+
+\C Glinka
+\T  Ruslan and Lyudmila---Overture
+
+\C Gorecki
+\T  Symphony No. 3
+
+\C Gounod 
+\T  Faust
+
+\C Grieg
+\T  Holberg Suite
+\T  Peer Gynt
+\T  Piano Concerto
+
+\C Handel
+\T  Concerti grossi, Op. 3
+\T  Concerti grossi, Op. 6
+\T  Messiah
+\T  Music for the Royal Fireworks
+\T  Organ Concertos, Op. 4
+\T  Organ Concertos, Op. 7
+\T  Water Music
+
+\C Haydn
+\T  Cello Concerto in C major
+\T  Die Schopfung
+\T  String Quartets, Op. 20
+\T  String Quartets, Op. 33
+\T  String Quartets, Op. 76
+\T  Symphony No. 94, ``Surprise''
+\T  Symphony No. 100, ``Military''
+\T  Symphony No. 101, ``Clock''
+\T  Symphony No. 103, ``Drumroll''
+\T  Symphony No. 104, ``London''
+
+\C Holst
+\T  The Planets
+
+\C Janacek
+\T  The Cunning Little Vixen
+\T  Glagolitic Mass
+\T  Sinfonietta
+
+\C Kodaly
+\T  Hary Janos---suite
+
+\C Lalo
+\T  Symphonie espagnole
+
+\C Lehar
+\T  Die Lustige Witwe
+
+\C Leoncavallo
+\T  Pagliacci
+
+\C Liszt
+\T  Piano Concerto No. 1
+\T  Piano Concerto No. 2
+\T  Piano Sonata in B minor
+\T  Les Preludes
+\T  Various Solo Piano Works
+
+\C Mahler
+\T  Kindertotenlieder
+\T  Das Lied von der Erde
+\T  Symphony No. 1
+\T  Symphony No. 4
+\T  Symphony No. 5
+\T  Symphony No. 8, ``Symphony of a Thousand''
+\T  Symphony No. 9
+
+\C Mascagni
+\T  Cavalleria Rusticana
+
+\C Massenet
+\T  Werther
+
+\C Mendelssohn
+\T  A Midsummer Night's Dream---incidental music
+\T  Octet
+\T  Symphony No. 3, ``Scottish''
+\T  Symphony No. 4, ``Italian''
+\T  Symphony No. 5, ``Reformation''
+\T  Violin Concerto in E minor
+
+\C Monteverdi 
+\T  Vespers of 1610
+
+\C Mozart
+\T  Clarinet Concerto in A Major, K~622
+\T  Clarinet Quintet
+\T  Cosi fan tutte
+\T  Don Giovanni
+\T  Eine kleine Nachtmusik
+\T  Horn Concertos Nos. 1--4
+\T  Le nozze di Figaro
+\T  Piano Concerto, No. 14
+\T  Piano Concerto, No. 20
+\T  Piano Concerto, No. 21, ``Elvira Madigan''
+\T  Piano Concerto, No. 22
+\T  Piano Concerto, No. 24
+\T  Piano Concerto, No. 25
+\T  Piano Concerto, No. 27
+\T  Requiem
+\T  Serenade No. 10, ``Gran Partita''
+\T  Sinfonia concertante for violin and viola
+\T  Symphony No. 29
+\T  Symphony No. 35, ``Haffner''
+\T  Symphony No. 36, ``Linz''
+\T  Symphony No. 38, ``Prague''
+\T  Symphony No. 39
+\T  Symphony No. 40
+\T  Symphony No. 41, ``Jupiter''
+\T  Violin Concerto No. 1
+\T  Violin Concerto No. 2
+\T  Violin Concerto No. 3
+\T  Violin Concerto No. 4
+\T  Violin Concerto No. 5
+\T  Die Zauberfl\"ote
+
+\C Mussorgsky
+\T  A Night on the Bare Mountain
+\T  Pictures at an Exhibition
+
+\C Orff
+\T  Carmina burana
+
+\C Pachelbel
+\T  Canon and Gigue
+
+\C Paganini 
+\T  Violin Concerto No. 1
+
+\C Prokofiev
+\T  Lieutenant Kije---suite
+\T  Peter and the Wolf
+\T  Piano Concerto No. 3
+\T  Romeo and Juliet
+\T  Symphony No. 1, ``Classical''
+\T  Symphony No. 5
+\T  Violin Concerto No. 1
+\T  Violin Concerto No. 2
+
+\C Puccini
+\T  La boheme
+\T  Madama Butterfly
+\T  Tosca
+\T  Turandot
+
+\C Purcell
+\T  Dido and Aeneas
+
+\C Rachmaninov 
+\T  Piano Concerto No. 2
+\T  Piano Concerto No. 3
+\T  Rhapsody on a theme of Paganini
+\T  Symphony No. 2
+
+\C Ravel
+\T  Bolero
+\T  Daphnis et Chloe
+\T  Gaspard de la nuit
+\T  Piano Concerto in G major
+\T  Sheherazade
+\T  La valse
+
+\C Respighi
+\T  Fountains of Rome
+\T  Pines of Rome
+\T  Roman Festivals
+
+\C Rimsky-Korsakov 
+\T  Scheherezade
+
+\C Rodrigo
+\T  Concierto de Aranjuez
+
+\C Rossini
+\T  Il barbiere di Siviglia
+\T  La Cenerentola
+\T  Overtures
+\T  Stabat mater
+
+\C Saint-Saens 
+\T  Carnaval des animaux
+\T  Piano Concerto No. 2
+\T  Symphony No. 3, ``Organ''
+
+\C Satie
+\T  Gymnopedies
+
+\C Schoenberg 
+\T  Chamber Symphony No. 1
+\T  Chamber Symphony No. 2
+\T  Verklarte Nacht
+
+\C Schubert
+\T  Impromptus
+\T  Octet
+\T  Piano Quintet, ``Trout''
+\T  Piano Sonata No. 21
+\T  Die schone Mullerin
+\T  String Quartet No. 14, ``Death and the Maiden''
+\T  String Quintet \textup(D~956, C major\textup)
+\T  Symphony No. 3
+\T  Symphony No. 5
+\T  Symphony No. 8, ``Unfinished''
+\T  Symphony No. 9, ``Great''
+\T  Wanderer Fantasy
+\T  Winterreise
+
+\C Schumann
+\T  Cello Concerto
+\T  Dichterliebe
+\T  Frauenliebe und -leben
+\T  Kinderszenen
+\T  Piano Concerto
+\T  Piano Fantasie in C major
+\T  Symphony No. 1
+\T  Symphony No. 2
+\T  Symphony No. 3
+\T  Symphony No. 4
+
+\C Shostakovich 
+\T  Piano Concerto No. 2
+\T  Symphony No. 5
+\T  Symphony No. 10
+
+\C Sibelius
+\T  Finlandia
+\T  Karelia Suite
+\T  Swan of Tuonela
+\T  Symphony No. 1
+\T  Symphony No. 2
+\T  Symphony No. 5
+\T  Valse triste
+\T  Violin Concerto
+
+\C Smetana 
+\T  Ma vlast
+
+\C J. Strauss II 
+\T  Die Fledermaus
+\T  Various Waltzes, Polkas and Overtures
+
+\C R. Strauss
+\T  Also sprach Zarathustra
+\T  Don Juan
+\T  Four Last Songs
+\T  Ein Heldenleben
+\T  Metamorphosen
+\T  Der Rosenkavalier
+\T  Till Eulenspiegels lustige Streiche
+
+\C Stravinsky
+\T  The Firebird
+\T  Petrushka
+\T  The Rite of Spring
+\T  Symphony of Psalms
+
+\C Tchaikovsky 
+\T  1812 Overture
+\T  Capriccio italien
+\T  The Nutcracker
+\T  Piano Concerto No. 1
+\T  Romeo and Juliet---fantasy overture
+\T  Serenade in C major
+\T  Sleeping Beauty---ballet suite
+\T  Swan Lake
+\T  Symphony No. 4
+\T  Symphony No. 5
+\T  Symphony No. 6, ``Path\'etique''
+\T  Violin Concerto
+
+\C Tippett
+\T  A Child of our Time
+\T  Piano Concerto
+\T  Symphony No. 2
+
+\C Vaughan Williams, Ralph
+\T  The Lark Ascending
+\T  Serenade to Music
+\T  Symphony No. 2
+\T  Symphony No. 4
+\T  Symphony No. 6
+\T  The Wasps---Overture
+
+\C Verdi
+\T  Aida
+\T  Falstaff
+\T  Otello
+\T  Requiem
+\T  Rigoletto
+\T  La traviata
+\T  Il trovatore
+
+\C Vivaldi
+\T  Concerti grossi, ``L'estro armonico''
+\T  Gloria
+\T  Violin Concertos, ``The Four Seasons''
+
+\C Wagner 
+\T  Parsifal
+\T  The Ring---Die Walkure
+\T  Siegfried Idyll
+\T  Tristan und Isolde
+
+\C Walton
+\T  Belshazzar's Feast
+\T  Facade---Suites
+\T  Viola Concerto
+
+\end{obeylines}
+
+\bigskip
+
+\noindent
+(c) 1998 Gramophone Publications Limited
+
+\end{document}
+
+                     Classical Good CD Guide 1999
+                       Suggested Basic Library
+
+ALBENIZ
+    Iberia
+
+ALLEGRI
+    Miserere
+
+BACH
+    Brandenburg Concertos
+    Cantatas Nos. 78, 82, 140, 147
+    Goldberg Variations
+    Mass in B minor
+    St Matthew Passion
+    Toccata and Fugue in D minor (organ)
+    Violin Concertos
+
+BARBER
+    Adagio for Strings
+
+BARTOK
+    Concerto for Orchestra
+    Piano Concertos Nos. 1-3
+    Violin Concertos Nos. 1 and 2
+
+BEETHOVEN
+    Fidelio
+    Missa solemnis
+    Piano Concertos Nos. 1-5
+    Piano Sonatas Nos. 8, "Pathetique", 14, "Moonlight", 21,
+        "Waldstein" and 23, "Appassionata"
+    Piano Trio No. 7, "Archduke"
+    Symphonies Nos. 1-9
+    33 Variations on a Waltz by Diabelli
+    Violin Concerto
+    Violin Sonatas Nos. 5 and 9
+
+BERG
+    Three Orchestral Pieces
+    Violin Concerto
+
+BERLIOZ
+    Grand messe des morts
+    Symphonie fantastique
+    Les nuits d'ete
+
+BERNSTEIN
+    West Side Story
+
+BIZET
+    L'Arlesienne -- Concert Suites Nos. 1 and 2
+    Carmen
+    Symphony in C major
+
+BORODIN
+    Prince Igor -- Polovtsian Dances
+
+BRAHMS
+    Clarinet Quintet
+    Ein deutsches Requiem
+    Hungarian Dances
+    Piano Concertos Nos. 1 and 2
+    Piano Quintet
+    Symphonies Nos. 1-4
+    Variations on a Theme by Haydn, "St Antoni Chorale"
+    28 Variations on a Theme by Paganini
+    Violin Concerto
+
+BRITTEN
+    Les illuminations
+    Peter Grimes -- Four Sea Interludes
+    Serenade for Tenor, Horn and Strings
+    War Requiem
+    The Young Person's Guide to the Orchestra
+
+BRUCH
+    Violin Concerto No. 1
+
+BRUCKNER
+    Symphonies Nos. 3, 4, 5, 8 and 9
+
+BYRD
+    Mass for four voices
+    Mass for five voices
+
+CANTELOUBE 
+    Chants d'Auvergne
+
+CHABRIER
+    Espana
+
+CHOPIN
+    Piano Concertos Nos. 1 and 2
+    Piano Sonatas Nos. 2 and 3
+    Various Solo Piano Works
+
+COPLAND
+    Appalachian Spring
+    Rodeo -- Four Dance Episodes
+
+DEBUSSY
+    Images
+    La mer
+    Nocturnes
+    Piano Preludes
+    Prelude a l'apres-midi d'un faune
+    String Quartet
+
+DELIBES
+    Coppelia
+
+DELIUS
+    Brigg Fair
+    In a summer garden
+    On hearing the first cuckoo in Spring
+    Sea Drift
+    A Village Romeo and Juliet -- Walk to the Paradise Garden
+
+DOHNANYI
+    Variations on a Nursery Theme
+
+DONIZETTI
+    L'elisir d'amore
+    Lucia di Lammermoor
+
+DOWLAND
+    Various Solo Lute Works
+
+DUKAS
+    Sorcerer's Apprentice
+
+DVORAK
+    Cello Concerto
+    Piano Quintet
+    Piano Trio No. 4, "Dumky"
+    Serenade for Strings
+    Slavonic Dances
+    String Quartet No. 12, "American"
+    Symphonies Nos. 7, 8 and 9, "From the New World"
+
+ELGAR
+    Cello Concerto
+    The Dream of Gerontius
+    Introduction and Allegro for Strings
+    Pomp and Circumstance Marches
+    Symphonies Nos. 1 and 2
+    Variations on an Original Theme, "Enigma"
+    Violin Concerto
+
+FALLA
+    Noches en los jardines de Espana
+    El sombrero de tres picos
+
+FAURE
+    Requiem
+
+FRANCK
+    Symphonic Variations
+    Symphony in D minor
+
+GERSHWIN
+    An American in Paris
+    Piano Concerto
+    Porgy and Bess
+    Rhapsody in Blue
+
+GLAZUNOV
+    Violin Concerto
+
+GLINKA
+    Ruslan and Lyudmila -- Overture
+
+GORECKI
+    Symphony No. 3
+
+GOUNOD 
+    Faust
+
+GRIEG
+    Holberg Suite
+    Peer Gynt
+    Piano Concerto
+
+HANDEL
+    Concerti grossi, Opp. 3 and 6
+    Messiah
+    Music for the Royal Fireworks
+    Organ Concertos, Opp. 4 and 7
+    Water Music
+
+HAYDN
+    Cello Concerto in C major
+    Die Schopfung
+    String Quartets, Opp. 20, 33 and 76
+    Symphonies Nos. 94, "Surprise", 100, "Military",
+    101, "Clock", 103, "Drumroll" and 104, "London"
+
+HOLST
+    The Planets
+
+JANACEK
+    The Cunning Little Vixen
+    Glagolitic Mass
+    Sinfonietta
+
+KODALY
+    Hary Janos -- suite
+
+LALO
+    Symphonie espagnole
+
+LEHAR
+    Die Lustige Witwe
+
+LEONCAVALLO
+    Pagliacci
+
+LISZT
+    Piano Concertos Nos. 1 and 2
+    Piano Sonata in B minor
+    Les Preludes
+    Various Solo Piano Works
+
+MAHLER
+    Kindertotenlieder
+    Das Lied von der Erde
+    Symphonies Nos. 1, 4, 5, 8, "Symphony
+    of a Thousand" and 9
+
+MASCAGNI
+    Cavalleria Rusticana
+
+MASSENET
+    Werther
+
+MENDELSSOHN
+    A Midsummer Night's Dream -- incidental music
+    Octet
+    Symphonies Nos. 3, "Scottish", 4, "Italian" and
+    5, "Reformation"
+    Violin Concerto in E minor
+
+MONTEVERDI 
+    Vespers of 1610
+
+MOZART
+    Clarinet Concerto
+    Clarinet Quintet
+    Cosi fan tutte
+    Don Giovanni
+    Eine kleine Nachtmusik
+    Horn Concertos Nos. 1-4
+    Le nozze di Figaro
+    Piano Concertos, Nos. 14, 20, 21,
+    "Elvira Madigan", 22, 24, 25 and 27
+    Requiem
+    Serenade No. 10, "Gran Partita"
+    Sinfonia concertante for violin and viola
+    Symphonies Nos. 29, 35, "Haffner", 36, "Linz", 38, "Prague", 39,
+        40 and 41, "Jupiter"
+    Violin Concertos Nos. 1-5
+    Die Zauberflote
+
+MUSSORGSKY
+    A Night on the Bare Mountain
+    Pictures at an Exhibition
+
+ORFF
+    Carmina burana
+
+PACHELBEL
+    Canon and Gigue
+
+PAGANINI 
+    Violin Concerto No. 1
+
+PROKOFIEV
+    Lieutenant Kije -- suite
+    Peter and the Wolf
+    Piano Concerto No. 3
+    Romeo and Juliet
+    Symphonies Nos. 1, "Classical" and 5
+    Violin Concertos Nos. 1 and 2
+
+PUCCINI
+    La boheme
+    Madama Butterfly
+    Tosca
+    Turandot
+
+PURCELL
+    Dido and Aeneas
+
+RACHMANINOV 
+    Piano Concertos Nos. 2 and 3
+    Rhapsody on a theme of Paganini
+    Symphony No. 2
+
+RAVEL
+    Bolero
+    Daphnis et Chloe
+    Gaspard de la nuit
+    Piano Concerto in G major
+    Sheherazade
+    La valse
+
+RESPIGHI
+    Fountains of Rome
+    Pines of Rome
+    Roman Festivals
+
+RIMSKY-KORSAKOV 
+    Scheherezade
+
+RODRIGO
+    Concierto de Aranjuez
+
+ROSSINI
+    Il barbiere di Siviglia
+    La Cenerentola
+    Overtures
+    Stabat mater
+
+SAINT-Saens 
+    Carnaval des animaux
+    Piano Concerto No. 2
+    Symphony No. 3, "Organ"
+
+SATIE
+    Gymnopedies
+
+SCHOENBERG 
+    Chamber Symphonies Nos. 1 and 2
+    Verklarte Nacht
+
+SCHUBERT
+    Impromptus
+    Octet
+    Piano Quintet, "Trout"
+    Piano Sonata No. 21
+    Die schone Mullerin
+    String Quartet No. 14, "Death and the Maiden"
+    String Quintet
+    Symphonies Nos. 3, 5, 8, "Unfinished" and 9, "Great"
+    Wanderer Fantasy
+    Winterreise
+
+SCHUMANN
+    Cello Concerto
+    Dichterliebe
+    Frauenliebe und -leben
+    Kinderszenen
+    Piano Concerto
+    Piano Fantasie in C major
+    Symphonies Nos. 1-4
+
+SHOSTAKOVICH 
+    Piano Concerto No. 2
+    Symphonies Nos. 5 and 10
+
+SIBELIUS
+    Finlandia
+    Karelia Suite
+    Swan of Tuonela
+    Symphonies Nos. 1, 2 and 5
+    Valse triste
+    Violin Concerto
+
+SMETANA 
+    Ma vlast
+
+J. STRAUSS II 
+    Die Fledermaus
+    Various Waltzes, Polkas and Overtures
+
+R. STRAUSS
+    Also sprach Zarathustra
+    Don Juan
+    Four Last Songs
+    Ein Heldenleben
+    Metamorphosen
+    Der Rosenkavalier
+    Till Eulenspiegels lustige Streiche
+
+STRAVINSKY
+    The Firebird
+    Petrushka
+    The Rite of Spring
+    Symphony of Psalms
+
+TCHAIKOVSKY 
+    1812 Overture
+    Capriccio italien
+    The Nutcracker
+    Piano Concerto No. 1
+    Romeo and Juliet -- fantasy overture
+    Serenade in C major
+    Sleeping Beauty -- ballet suite
+    Swan Lake
+    Symphonies Nos. 4, 5 and 6, "Path\'etique"
+    Violin Concerto
+
+TIPPETT
+    A Child of our Time
+    Piano Concerto
+    Symphony No. 2
+
+VAUGHAN WILLIAMS 
+    The Lark Ascending
+    Serenade to Music
+    Symphonies Nos. 2, "A London Symphony", 4 and 6
+    The Wasps -- Overture
+
+VERDI
+    Aida
+    Falstaff
+    Otello
+    Requiem
+    Rigoletto
+    La traviata
+    Il trovatore
+
+VIVALDI
+    Concerti grossi, "L'estro armonico"
+    Gloria
+    Violin Concertos, "The Four Seasons"
+
+WAGNER 
+    Parsifal
+    The Ring -- Die Walkure
+    Siegfried Idyll
+    Tristan und Isolde
+
+WALTON
+    Belshazzar's Feast
+    Facade -- Suites
+    Viola Concerto
+
+(c) 1998 Gramophone Publications Limited

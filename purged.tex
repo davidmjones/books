@@ -1,0 +1,60 @@
+\documentclass{article}
+
+\usepackage[pdfpagelayout=SinglePage]{hyperref}
+
+\hypersetup{%
+  pdfinfo={
+      Title={Catalogue of Books},
+      Author={David M. Jones},
+  }
+}
+
+%\nofiles
+
+\newif\ifsmall
+\smalltrue
+\smallfalse
+
+\usepackage{fullpage}
+
+\ifsmall
+    \advance\voffset   -.5in
+    \advance\textheight .5in
+\else
+    \advance\voffset .5in
+\fi
+
+\usepackage{books}
+
+\renewcommand{\(}{\textup(}
+\renewcommand{\)}{\textup)}
+\renewcommand{\;}{\textup;}
+
+\usepackage[T5,T1]{fontenc}
+\usepackage{amsviet}
+
+\begin{document}
+
+\ifsmall
+    \fontsize{7.5pt}{9pt}
+\fi
+
+\selectfont
+
+\title{Purged}
+%\author{David M. Jones}
+
+\maketitle
+
+\nocite*
+
+\bibliographystyle{books}
+
+\begin{thebibliography}{1000}
+\itemindent-1em
+
+\bibliography{purged}
+
+\end{thebibliography}
+
+\end{document}

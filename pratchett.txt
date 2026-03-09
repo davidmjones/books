@@ -1,0 +1,41 @@
+ 1. [HR]    The Colour of Magic
+ 2. [HR]    The Light Fantastic
+ 3. [HR]    Equal Rites
+ 4. [S]     Mort
+ 5. [S]     Sourcery
+ 6. [H]     Wyrd Sisters
+ 7. [S]     Pyramids
+ 8. [S]     Guards! Guards!
+ 9. [HR]    Eric
+10. [H]     Moving Pictures
+11. [H]     Reaper Man
+12. [H]     Witches Abroad
+13. [H]     Small Gods
+14. [H]     Lords and Ladies
+15. [H]     Men at Arms
+16. [H]     Soul Music
+17. [H]     Interesting Times
+18. [H]     Maskerade
+19. [H]     Feet of Clay
+20. [H]     Hogfather
+21. [H]     Jingo
+22. [H]     The Last Continent
+23. [H]     Carpe Jugulum
+24. [H]     The Fifth Elephant
+25. [H]     The Truth
+26. [H]     Thief of Time
+27. [H]     The Last Hero
+28. [H]     The Amazing Maurice and His Educated Rodents
+29. [H]     Night Watch
+30. [H]     The Wee Free Men
+31. [H]     Monstrous Regiment
+32. [H]     A Hat Full of Sky
+33. [H]     Going Postal
+34. [H]     Thud!
+35. [H]     Wintersmith
+36. [H]     Making Money
+37. [H]     Unseen Academicals
+38. [H]     I Shall Wear Midnight
+39. [H]     Snuff
+40. [H]     Raising Steam
+41. [H]     The Shepherd's Crown
