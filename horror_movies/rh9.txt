@@ -311,9 +311,19 @@
 305 - The Swarm (1978)
 306 - The Walking Dead
 307 - The Prophecy (1995)
-308 - 
-309 - 
-310 - 
+308 - Ghostwatch (1992)
+309 - La Llorona (2019)
+310 - When Evil Lurks (2023)
+311 - Happy Death Day (2017)
+312 - Lords of Salem (2013)
+313 - 
+314 - 
+315 - 
+316 - 
+317 - 
+318 - 
+318 - 
+320 - 
 
 ===========================================================================
 
@@ -379,7 +389,7 @@ P059 - Haunt (2019)
 P060 - Thanksgiving (2023)
 P061 - May (2002)
 P062 - The Ugly Stepsister (2025)
-P063 - 
+P063 - Slither (2006)
 P064 - 
 P065 - 
 P066 - 
