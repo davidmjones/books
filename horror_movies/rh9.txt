@@ -324,8 +324,8 @@
 318 - Serpent and the Rainbow [magic/horror icon]
 318 - The Mist (2007)
 320 - Devil (2010)
-321 - 
-322 - 
+321 - Shaun of the Dead (2004)
+322 - Blood and Black Lace (1964)
 323 - 
 324 - 
 325 - 
@@ -401,7 +401,7 @@ P061 - May (2002)
 P062 - The Ugly Stepsister (2025)
 P063 - Slither (2006)
 P064 - Theatre of Blood (1973)
-P065 - 
+P065 - Psycho Goreman
 P066 - 
 P067 - 
 P068 - 
