@@ -2,6 +2,8 @@ P = lualatex
 D = latex
 E = pdf
 
+TEXINPUTS=lib/texmf:
+
 all: list cd new probation dvds book vsi
 
 new: new.dvi
@@ -30,9 +32,9 @@ wantlist.$(E): wantlist.tex
 dvds.$(E): dvds.tex
 	$(P) dvds.tex
 
-books.$(E): books.tex books.bbl books2.bbl books.sty
+books.$(E): books.tex books.bbl books2.bbl lib/texmf/books.sty
 	- $(P) books
-	./cullrefs.prl books
+	./bin/cullrefs.prl books
 	- $(P) books
 	- $(P) books
 
@@ -44,7 +46,7 @@ books2.bbl: books2.bib abbrevs.bib books.bst
 	$(P) books2.tex
 	bibtex books2
 
-new.dvi: new.tex new.bbl books.sty
+new.dvi: new.tex new.bbl lib/texmf/books.sty
 	- $(D) new
 	$(D) new
 
@@ -52,7 +54,7 @@ new.bbl: new.bib abbrevs.bib books.bst
 	$(P) new.tex
 	bibtex new
 
-probation.$(E): probation.tex probation.bbl books.sty
+probation.$(E): probation.tex probation.bbl lib/texmf/books.sty
 	- $(P) probation
 	$(P) probation
 
@@ -60,7 +62,7 @@ probation.bbl: books.bib books2.bib abbrevs.bib books.bst
 	$(P) probation.tex
 	bibtex probation
 
-vsi.$(E): vsi.tex vsi.bbl books.sty
+vsi.$(E): vsi.tex vsi.bbl lib/texmf/books.sty
 	- $(P) vsi
 	$(P) vsi
 
@@ -71,13 +73,13 @@ vsi.bbl: books.bib books2.bib abbrevs.bib books.bst
 cd.$(E): cd.tex cd.ltx 
 	$(P) cd.tex
 
-cd.ltx: cd.db CD.pm
+cd.ltx: cd.db lib/perl/CD.pm
 ## There has *got* to be a better way to do this
 	if (egrep -n '^ +$$' cd.db) ; \
 		then false; \
 		else true; \
 	fi
-	./cd2ltx cd.db > cd.ltx
+	./bin/cd2ltx cd.db > cd.ltx
 
 vsi2.pdf: vsi.txt
 	enscript -2 vsi.txt -o vsi2.ps
@@ -86,3 +88,6 @@ vsi2.pdf: vsi.txt
 
 install: books.pdf vsi2.pdf
 	install -m 0444 -t /var/www/html/docs books.pdf vsi2.pdf
+
+clean:
+	-rm *.aux *.bbl *.pdf *.dvi *.blg *.log *.out
