@@ -1,0 +1,55 @@
+#!/usr/bin/perl -w
+
+use v5.26;
+
+our $VERSION = v0.0.0;
+
+use warnings;
+
+use lib;
+
+BEGIN {
+    use FindBin;
+
+    lib->import("$FindBin::RealBin/../lib/perl");
+}
+
+use ISBN;
+
+my $bib_file = shift;
+
+open(my $bib, "<", $bib_file) or die "Can't open $bib_file: $!\n";
+
+while (<$bib>) {
+    m{^isbn=\{(.*?)\}} and do {
+        my $isbn = $1;
+
+        if (! check_isbn($isbn)) {
+            print qq{Invalid ISBN '$isbn' on line $.};
+
+            if (check_sbn($isbn)) {
+                print qq{ (VALID SBN)}
+            }
+
+            print qq{\n};
+        }
+    };
+
+    m{^sbn=\{(.*?)\}} and do {
+        my $sbn = $1;
+
+        if (! check_sbn($sbn)) {
+            print qq{Invalid SBN '$sbn' on line $.};
+
+            if (check_isbn($sbn)) {
+                print qq{ (VALID ISBN)}
+            }
+
+            print qq{\n};
+        }
+    };
+}
+
+close($bib);
+
+__END__

@@ -1,0 +1,35 @@
+#!/usr/bin/perl -w
+
+use v5.26;
+
+our $VERSION = v0.0.0;
+
+use warnings;
+
+use lib;
+
+BEGIN {
+    use FindBin;
+
+    lib->import("$FindBin::RealBin/../lib/perl");
+}
+
+use ISBN;
+
+while (my $bn = shift) {
+    print $bn, ": ";
+
+    if (check_isbn($bn)) {
+        print "VALID ISBN";
+    } elsif (check_sbn($bn)) {
+        print "VALID SBN";
+    } elsif (check_isbn("0$bn")) {
+        print "VALID ISBN as 0$bn"; # Shouldn't happen
+    } else {
+        print "INVALID";
+    }
+
+    print "\n";
+}
+
+__END__
