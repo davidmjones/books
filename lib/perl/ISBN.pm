@@ -1,4 +1,4 @@
-package ISBN v1.0.0;
+package ISBN v1.1.0;
 
 use warnings;
 
@@ -13,6 +13,7 @@ use base qw(Exporter);
 our %EXPORT_TAGS = (all => [ qw(
     check_sbn
     check_isbn
+    fix_check_digit
     isbn10_to_13
     format_isbn13
 ) ]);
@@ -143,6 +144,28 @@ sub format_isbn13 {
     splice @digits,  3, 0, '-';
 
     return join("", @digits);
+}
+
+sub fix_check_digit {
+    my $isbn = shift;
+
+    my $root = $isbn =~ s{-?.\z}{}r;
+
+    my @digits = split '', ($root =~ s{-}{}gr);
+
+    my $x;
+
+    if (@digits == 9) {
+        $x = check_digit_10(@digits);
+    } elsif (@digits == 12) {
+        $x = check_digit_13(@digits);
+    } else {
+        carp qq{Invalid ISBN '$isbn'\n};
+
+        return;
+    }
+
+    return "$root-$x";
 }
 
 1;
