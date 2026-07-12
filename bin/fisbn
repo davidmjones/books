@@ -1,0 +1,23 @@
+#!/usr/bin/perl -w
+
+use v5.26;
+
+our $VERSION = v0.0.0;
+
+use warnings;
+
+use lib;
+
+BEGIN {
+    use FindBin;
+
+    lib->import("$FindBin::RealBin/../lib/perl");
+}
+
+use ISBN;
+
+while (my $isbn = shift) {
+    print qq{$isbn => }, fix_check_digit($isbn), qq{\n};
+}
+
+__END__
