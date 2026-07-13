@@ -2,6 +2,8 @@ P = lualatex
 D = latex
 E = pdf
 
+C = bin/check_isbns
+
 export TEXINPUTS=lib/texmf:
 export BSTINPUTS=lib/texmf/bst:
 export BIBINPUTS=data
@@ -53,6 +55,7 @@ new.dvi: new.tex new.bbl lib/texmf/books.sty
 	$(D) new
 
 new.bbl: data/new.bib data/abbrevs.bib lib/texmf/bst/books.bst
+	$(C) data/new.bib
 	$(P) new.tex
 	bibtex new
 
@@ -72,7 +75,7 @@ vsi.bbl: data/books.bib data/books2.bib data/abbrevs.bib lib/texmf/bst/books.bst
 	$(P) vsi.tex
 	bibtex vsi
 
-cd.$(E): cd.tex cd.ltx 
+cd.$(E): cd.tex cd.ltx
 	$(P) cd.tex
 
 cd.ltx: data/cd.db lib/perl/CD.pm
