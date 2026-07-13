@@ -16,6 +16,8 @@ BEGIN {
 
 use ISBN;
 
+my $exit_status = 0;
+
 my $bib_file = shift;
 
 open(my $bib, "<", $bib_file) or die "Can't open $bib_file: $!\n";
@@ -25,6 +27,8 @@ while (<$bib>) {
         my $isbn = $1;
 
         if (! check_isbn($isbn)) {
+            $exit_status = 1;
+
             print qq{Invalid ISBN '$isbn' on line $.};
 
             if (check_sbn($isbn)) {
@@ -51,5 +55,7 @@ while (<$bib>) {
 }
 
 close($bib);
+
+exit $exit_status;
 
 __END__
