@@ -333,7 +333,7 @@
 327 - Infinity Pool 
 328 - Cat People (1942)
 329 - Dolls (1986)
-330 - 
+330 - The Others (2001)
 331 - 
 332 - 
 333 - 
@@ -412,6 +412,6 @@ P063 - Slither (2006)
 P064 - Theatre of Blood (1973)
 P065 - Psycho Goreman
 P066 - Fréwaka (2025)
-P067 - 
+P067 - Phantom of the Paradise (1974)
 P068 - 
 P069 - 
