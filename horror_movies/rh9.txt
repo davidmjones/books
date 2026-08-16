@@ -336,7 +336,7 @@
 330 - The Others (2001)
 331 - The Lair of the White Worm (1988)
 332 - Final Destination 2 (2003)
-333 - Mother (2017)
+333 - Mother! (2017)
 334 - The Company of Wolves (1984)
 335 - 
 336 - 
@@ -413,5 +413,15 @@ P064 - Theatre of Blood (1973)
 P065 - Psycho Goreman
 P066 - Fréwaka (2025)
 P067 - Phantom of the Paradise (1974)
-P068 - 
+P068 - Saw (2004)
 P069 - 
+P070 - 
+P071 - 
+P072 - 
+P073 - 
+P074 - 
+P075 - 
+P076 - 
+P077 - 
+P078 - 
+P079 - 
