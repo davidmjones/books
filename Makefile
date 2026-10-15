@@ -33,8 +33,8 @@ list: wantlist.$(E)
 wantlist.$(E): wantlist.tex
 	$(P) wantlist.tex
 
-dvds.$(E): dvds.tex
-	$(P) dvds.tex
+dvds.$(E): data/dvds.tex
+	$(P) data/dvds.tex
 
 books.$(E): books.tex books.bbl books2.bbl lib/texmf/books.sty
 	- $(P) books
