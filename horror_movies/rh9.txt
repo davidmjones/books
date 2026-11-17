@@ -312,48 +312,57 @@
 306 - The Walking Dead
 307 - The Prophecy (1995)
 308 - Ghostwatch (1992)
-309 - La Llorona (2019)
-310 - When Evil Lurks (2023)
-311 - Happy Death Day (2017)
-312 - Lords of Salem (2013)
-313 - Evil Dead 2 (1987) w/Andrew Scahill
-314 - Encounters of the Spooky Kind (1980)
-315 - November (2017)
-316 - Poison for the Fairies (1986)
-317 - Voyage of the Rock Aliens (1984) [alien/5+ word title]
-318 - Serpent and the Rainbow [magic/horror icon]
-318 - The Mist (2007)
-320 - Devil (2010)
-321 - Shaun of the Dead (2004)
-322 - Blood and Black Lace (1964)
-323 - Martyrs (2008)
-324 - 1408 (2007)
-325 - The Wizard of Oz
-326 - Hannibal S01 1-3
-327 - Infinity Pool 
-328 - Cat People (1942)
-329 - Dolls (1986)
-330 - The Others (2001)
-331 - The Lair of the White Worm (1988)
-332 - Final Destination 2 (2003)
-333 - Mother! (2017)
-334 - The Company of Wolves (1984)
-335 - Nighbreed (1990)
-336 - Dawn of the Dead (2004)
-337 - District 9
-338 - The Visit (2015)
-339 - I Saw the TV Glow (2024)
-340 - The Lure (2015)
-341 - Red Dragon (2002)
-342 - Deathdream (1974)
-343 - The Dark and the Wicked (2020)
-344 - C.H.U.D. (1984)
-345 - The Platform (2019)
-346 - Daughters of Darkness (1971)
-347 - 
-348 - 
-349 - 
-
+309 - La cabina (1972) and other horror shorts
+310 - La Llorona (2019)
+311 - When Evil Lurks (2023)
+312 - Happy Death Day (2017)
+313 - Lords of Salem (2013)
+314 - The Oldest View (2013) and other shorts w/Sarah Maria Griffin
+315 - Evil Dead 2 (1987) w/Andrew Scahill
+316 - Encounters of the Spooky Kind (1980)
+317 - November (2017)
+318 - Poison for the Fairies (1986)
+319 - Voyage of the Rock Aliens (1984) [alien/5+ word title]
+320 - The Serpent and the Rainbow [magic/horror icon]
+321 - The Mist (2007)
+322 - Devil (2010)
+323 - Shaun of the Dead (2004)
+324 - Blood and Black Lace (1964)
+325 - Martyrs (2008)
+326 - 1408 (2007)
+327 - The Wizard of Oz
+328 - Hannibal (2013)
+329 - Infinity Pool 
+330 - Cat People (1942)
+331 - Dolls (1986)
+332 - The Others (2001)
+333 - The Lair of the White Worm (1988)
+334 - Final Destination 2 (2003)
+335 - mother! (2017)
+336 - The Company of Wolves (1984)
+337 - Nighbreed (1990)
+338 - Dawn of the Dead (2004)
+339 - District 9
+340 - The Visit (2015)
+341 - The Lure (2015)
+342 - Red Dragon (2002)
+343 - Deathdream (1974)
+344 - The Dark and the Wicked (2020)
+345 - C.H.U.D. (1984)
+346 - The Platform (2019)
+347 - Daughters of Darkness (1971)
+348 - Robert Eggers' The Tell-Tale Heart (2009) and other horror shorts
+349 - Carnival of Souls (1962)
+350 - Evil Dead Rise (2023)
+351 - Curry Barker's The Chair (2023) and other horror shorts
+352 - The Sacrament (2014)
+353 - Death Becomes Her (1992) [magic/sexy]
+354 - 
+355 - 
+356 - 
+357 - 
+358 - 
+359 - 
 ===========================================================================
 
 P001 - The Conjuring (2013)
@@ -419,15 +428,15 @@ P060 - Thanksgiving (2023)
 P061 - May (2002)
 P062 - The Ugly Stepsister (2025)
 P063 - Slither (2006)
-P064 - Theatre of Blood (1973)
-P065 - Psycho Goreman
-P066 - Fréwaka (2025)
-P067 - Phantom of the Paradise (1974)
-P068 - Saw (2004)
-P069 - Late Night with the Devil (2024) [Oct 17, 2026]
-P070 - 
-P071 - 
-P072 - 
+P064 - Mother of Flies (2025)
+P065 - Theatre of Blood (1973)
+P066 - Psycho Goreman
+P067 - Fréwaka (2025)
+P068 - Phantom of the Paradise (1974)
+P069 - Saw (2004)
+P070 - Late Night with the Devil (2024) [Oct 17, 2026]
+P071 - I Saw the TV Glow (2024)
+P072 - Crimson Peak (2015)
 P073 - 
 P074 - 
 P075 - 
